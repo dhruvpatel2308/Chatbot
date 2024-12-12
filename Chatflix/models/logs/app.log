@@ -1,0 +1,1371 @@
+2024-11-23 00:57:09,450 [INFO] Database db_1911 connection successful!
+2024-11-23 00:57:09,488 [INFO] Database initialized or updated successfully!
+2024-11-23 00:57:09,505 [INFO] Cache loaded from file successfully.
+2024-11-23 00:59:33,994 [INFO] Time taken to execute get embedding: 7.083240985870361 seconds
+2024-11-23 00:59:33,995 [INFO] Returning cached result for a similar query: ('88', 'Hello')
+2024-11-23 00:59:33,995 [INFO] Returning cached result
+2024-11-23 01:06:14,382 [INFO] Cache saved to file successfully.
+2024-11-23 01:06:21,254 [INFO] Database db_1911 connection successful!
+2024-11-23 01:06:21,276 [INFO] Database initialized or updated successfully!
+2024-11-23 01:06:21,289 [INFO] Cache loaded from file successfully.
+2024-11-23 01:06:40,679 [INFO] Time taken to execute get embedding: 2.92205548286438 seconds
+2024-11-23 01:06:52,790 [INFO] Cleaned response: "For this information, please contact academics or student success."
+2024-11-23 01:06:52,790 [INFO] Time taken to get the response: 9.965248584747314 seconds
+2024-11-23 01:06:52,993 [INFO] Cache saved to file successfully.
+2024-11-23 01:06:53,040 [INFO] Database db_1911 connection successful!
+2024-11-23 01:09:00,802 [INFO] Time taken to execute get embedding: 2.1081018447875977 seconds
+2024-11-23 01:09:02,948 [INFO] Returning cached result for a similar query: ('99', 'which ai tools i can use')
+2024-11-23 01:09:02,948 [INFO] Returning cached result
+2024-11-23 01:10:37,686 [INFO] Removed cached query due to negative feedback: ('99', 'which ai tools i can use')
+2024-11-23 01:10:39,761 [INFO] Time taken to execute get embedding: 2.0596468448638916 seconds
+2024-11-23 01:10:47,110 [INFO] Cleaned response: For this information, please contact academics or student success.
+2024-11-23 01:10:47,110 [INFO] Time taken to get the response: 5.181658029556274 seconds
+2024-11-23 01:10:47,157 [INFO] Cache saved to file successfully.
+2024-11-23 01:10:47,213 [INFO] Database db_1911 connection successful!
+2024-11-23 01:11:16,077 [INFO] Time taken to execute get embedding: 2.224010944366455 seconds
+2024-11-23 01:11:24,821 [INFO] Cleaned response: some examples of Generative Artificial Intelligence (Gen AI) tools mentioned are:
+
+1. ChatGPT
+2. Bard
+3. Scribe
+2024-11-23 01:11:24,822 [INFO] Time taken to get the response: 6.550088167190552 seconds
+2024-11-23 01:11:24,893 [INFO] Cache saved to file successfully.
+2024-11-23 01:11:24,971 [INFO] Database db_1911 connection successful!
+2024-11-23 01:16:13,075 [INFO] Cache saved to file successfully.
+2024-11-23 01:16:32,875 [INFO] Database db_1911 connection successful!
+2024-11-23 01:16:32,899 [INFO] Database initialized or updated successfully!
+2024-11-23 01:16:32,899 [INFO] Cache loaded from file successfully.
+2024-11-23 01:16:56,074 [INFO] Time taken to execute get embedding: 3.908362627029419 seconds
+2024-11-23 01:16:58,199 [INFO] Returning cached result for a similar query: ('98', 'which ai tools i can use to do my assignments')
+2024-11-23 01:16:58,199 [INFO] Returning cached result
+2024-11-23 01:17:15,945 [INFO] Cache saved to file successfully.
+2024-11-23 01:17:44,348 [INFO] Database db_1911 connection successful!
+2024-11-23 01:17:44,360 [INFO] Database initialized or updated successfully!
+2024-11-23 01:18:01,216 [INFO] Time taken to execute get embedding: 2.110142707824707 seconds
+2024-11-23 01:18:17,460 [INFO] Cleaned response: Sorry, I couldn't find specific information on the list of approved AI tools for assignments. However, according to the context provided, Gen AI tools such as ChatGPT, Bard, Scribe, and others are mentioned as examples of generative artificial intelligence (Gen AI) tools capable of generating text, images, audio, etc.
+
+It is recommended that students review the Course Announcement and assessment instructions carefully and adhere to the guidance provided by the instructor. The Guidelines for Embracing AI into Teaching and Learning also mention the importance of using AI tools in a responsible and ethical manner, with emphasis on critical thinking.
+
+For specific information on approved AI tools or further guidance, I would recommend consulting with academics or student success representatives at Loyalist College.
+2024-11-23 01:18:17,461 [INFO] Time taken to get the response: 14.094088792800903 seconds
+2024-11-23 01:18:17,908 [INFO] Cache saved to file successfully.
+2024-11-23 01:18:17,968 [INFO] Database db_1911 connection successful!
+2024-11-23 01:19:00,973 [INFO] Time taken to execute get embedding: 2.1290524005889893 seconds
+2024-11-23 01:19:09,350 [INFO] Cleaned response: some examples of Generative Artificial Intelligence (Gen AI) tools mentioned include:
+
+1. ChatGPT
+2. Bard
+3. Scribe
+
+These tools are capable of generating text, images, audio, and other types of content by analyzing patterns in their training data.
+2024-11-23 01:19:09,350 [INFO] Time taken to get the response: 6.213735580444336 seconds
+2024-11-23 01:19:09,399 [INFO] Cache saved to file successfully.
+2024-11-23 01:19:09,451 [INFO] Database db_1911 connection successful!
+2024-11-23 01:19:23,914 [INFO] Time taken to execute get embedding: 2.1433727741241455 seconds
+2024-11-23 01:19:33,621 [INFO] Cleaned response: I couldn't find specific information on "accommodation" in the context of your request for a Study Permit Extension Letter (Co-op Work Permit). However, I did find that Loyalist College has various resources to help students with accommodation needs.
+
+You can check the availability and contact information of our accommodations team or other support services through Moodle – Student Life – Accommodations. 
+
+Alternatively, you may want to reach out to LCIT's student success team for guidance on this matter. They would be able to provide more specific information and point you in the right direction.
+
+"Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success."
+2024-11-23 01:19:33,621 [INFO] Time taken to get the response: 7.552548170089722 seconds
+2024-11-23 01:19:33,679 [INFO] Cache saved to file successfully.
+2024-11-23 01:19:33,729 [INFO] Database db_1911 connection successful!
+2024-11-23 01:20:26,155 [INFO] Time taken to execute get embedding: 2.127272844314575 seconds
+2024-11-23 01:20:28,332 [INFO] Returning cached result for a similar query: ('122', 'how can i get the accomadation')
+2024-11-23 01:20:28,332 [INFO] Returning cached result
+2024-11-23 01:20:36,734 [INFO] Removed cached query due to negative feedback: ('122', 'how can i get the accomadation')
+2024-11-23 01:20:38,859 [INFO] Time taken to execute get embedding: 2.12567400932312 seconds
+2024-11-23 01:20:50,060 [INFO] Cleaned response: To find information on how to request academic accommodation, I recommend checking the College's Academic Calendar and Student Services section. However, specific details on requesting accommodations are not directly mentioned in the provided context.
+
+But, you can refer to the "All Human Rights Code related requests for accommodation will be given meaningful consideration" statement. It suggests that students should contact the College for guidance on how to request academic accommodations.
+
+You can start by visiting the Coordination Office or reaching out to Enrollment Services at registration@tbcollege.com to inquire about the process and necessary requirements for requesting academic accommodations.
+
+Additionally, you can also look into other resources such as the Academic Student Success Team (https://outlook.office365.com/book/AcademicStudentSuccessTeam@tbcollege.com/) or schedule a meeting with an academic advisor (https://outlook.office365.com/book/Book_an_appointment_with_An_academic_advisor) to discuss potential options and guidance.
+
+If you have any further questions, feel free to ask!
+2024-11-23 01:20:50,064 [INFO] Time taken to get the response: 9.039360761642456 seconds
+2024-11-23 01:20:50,141 [INFO] Cache saved to file successfully.
+2024-11-23 01:20:50,214 [INFO] Database db_1911 connection successful!
+2024-11-23 13:45:00,817 [INFO] Database db_1911 connection successful!
+2024-11-23 13:45:00,858 [INFO] Database initialized or updated successfully!
+2024-11-23 13:45:00,868 [INFO] Cache loaded from file successfully.
+2024-11-23 13:45:45,428 [INFO] Time taken to execute get embedding: 6.1571855545043945 seconds
+2024-11-23 13:45:47,600 [INFO] Returning cached result for a similar query: ('98', 'Which AI tools can I use to do my assignments?')
+2024-11-23 13:45:47,604 [INFO] Returning cached result
+2024-11-23 13:46:16,539 [INFO] Time taken to execute get embedding: 2.1051623821258545 seconds
+2024-11-23 13:46:31,248 [INFO] Cleaned response: provided, students who have lost their student ID card can request a replacement during the available hours. 
+
+To claim a lost item (in this case, your student ID card), you must present your student ID card to the security desk at the front desk of the college. You will need to show it and provide any additional information if necessary.
+
+Unfortunately, I couldn't find specific instructions on how to report or inquire about a lost ID card through other means (such as phone, text, or email). As stated in the context, students must come to the front desk with their student ID card to inquire about lost items.
+2024-11-23 13:46:31,251 [INFO] Time taken to get the response: 12.568949460983276 seconds
+2024-11-23 13:46:31,715 [INFO] Cache saved to file successfully.
+2024-11-23 13:46:31,797 [INFO] Database db_1911 connection successful!
+2024-11-23 13:48:13,851 [INFO] Time taken to execute get embedding: 2.096662759780884 seconds
+2024-11-23 13:48:21,956 [INFO] Cleaned response: you can find information about your enrollment letter by logging into your myLoyalist portal. 
+
+In this case, Verification of enrolment letters can be found in your myLoyalist portal in the myApps view.
+2024-11-23 13:48:21,957 [INFO] Time taken to get the response: 5.947391748428345 seconds
+2024-11-23 13:48:21,985 [INFO] Cache saved to file successfully.
+2024-11-23 13:48:22,033 [INFO] Database db_1911 connection successful!
+2024-11-23 13:49:04,115 [INFO] Time taken to execute get embedding: 2.1069304943084717 seconds
+2024-11-23 13:49:14,806 [INFO] Cleaned response: provided, it is recommended that you contact the immigration consultant using your college email. You can reach Bash Ali at bashimmigration@yahoo.com and check his availability on campus by checking the calendar. Additionally, for more information on the application process for Post-Graduation Work Permit Program (PGWPP), please check the IRCC PGWPP web page.
+
+Note that LCIT does not provide a direct link or application form for study permits, co-op work permits, and PGWP. The request for Study Permit Extension Letter (Co-op Work Permit) is specifically mentioned in the provided context, which requires you to complete a form available at https://forms.office.com/r/siC1u2ZUC9 and upload your valid study permit (and co-op work permit, if available) to the Services Portal.
+2024-11-23 13:49:14,807 [INFO] Time taken to get the response: 8.534989595413208 seconds
+2024-11-23 13:49:14,872 [INFO] Cache saved to file successfully.
+2024-11-23 13:49:14,933 [INFO] Database db_1911 connection successful!
+2024-11-23 13:50:01,414 [INFO] Time taken to execute get embedding: 2.098339557647705 seconds
+2024-11-23 13:50:03,578 [INFO] Returning cached result for a similar query: ('122', 'How can I apply for my study permit, co-op work permit and Post Graduation Work Permit (PGWP)? ')
+2024-11-23 13:50:03,578 [INFO] Returning cached result
+2024-11-23 13:50:45,589 [INFO] Time taken to execute get embedding: 2.09738826751709 seconds
+2024-11-23 13:50:55,831 [INFO] Cleaned response: Based on the provided context, I couldn't find specific information that allows a student to have "admin rights" as mentioned in the question. 
+
+However, according to section 7.1 of the Student Rights and Responsibilities, students have the right to participate fully in college life without fear or threat of harassment, intimidation.
+
+Additionally, section 6 mentions that for Human Rights Code-related requests for accommodation, the College will give meaningful consideration. But it doesn't explicitly state that this would grant a student "admin rights".
+
+For further details on the process of acquiring admin rights (if they exist at all), I recommend contacting the College's administration or seeking guidance from Enrolment Services as mentioned in section 6.
+
+Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-11-23 13:50:55,833 [INFO] Time taken to get the response: 8.103195190429688 seconds
+2024-11-23 13:50:55,872 [INFO] Cache saved to file successfully.
+2024-11-23 13:50:55,917 [INFO] Database db_1911 connection successful!
+2024-11-23 13:51:26,087 [INFO] Time taken to execute get embedding: 2.101839780807495 seconds
+2024-11-23 13:51:33,338 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-11-23 13:51:33,338 [INFO] Time taken to get the response: 5.045040607452393 seconds
+2024-11-23 13:51:33,362 [INFO] Cache saved to file successfully.
+2024-11-23 13:51:33,412 [INFO] Database db_1911 connection successful!
+2024-11-23 13:51:42,765 [INFO] Time taken to execute get embedding: 2.1150689125061035 seconds
+2024-11-23 13:51:51,459 [INFO] Cleaned response: I'd be happy to help with your personal questions, but I want to clarify that our primary context is related to study techniques and academic support at Loyalist College. However, I'll do my best to provide guidance while being mindful of the scope of information available in the provided documents.
+
+Please feel free to ask your personal questions, and I'll respond with the help of general knowledge or contextual information if applicable.
+2024-11-23 13:51:51,462 [INFO] Time taken to get the response: 6.552743434906006 seconds
+2024-11-23 13:51:51,493 [INFO] Cache saved to file successfully.
+2024-11-23 13:51:51,560 [INFO] Database db_1911 connection successful!
+2024-11-23 13:53:00,778 [INFO] Time taken to execute get embedding: 2.1278939247131348 seconds
+2024-11-23 13:53:12,852 [INFO] Cleaned response: Unfortunately, I couldn't find specific information on the reliability of generated answers by AI tools like myself within the provided context. However, I can provide some relevant information.
+
+The context mentions that Gen AI tools generate content based on existing information sources, which may include inaccuracies and/or biased information. It is also stated that students should verify the accuracy of generated work and consider specifying the date (year/month/day) of using the AI tool to create respective content for accurate citation.
+
+Additionally, the context highlights the importance of critical thinking and evaluating the validity of arguments based on qualitative and quantitative information. Graduates are expected to be able to analyze assumptions and evidence, detect fallacies and biases, and make informed decisions about what they read and hear.
+
+Based on this information, I would say that while generated answers like mine can provide valuable insights, it's essential to approach them with a critical eye and verify the accuracy of the information. I wouldn't say "believe" anything without verifying its truthfulness through other credible sources.
+
+For further details, please contact academics or student success, as this is outside my scope of knowledge within the provided context.
+2024-11-23 13:53:12,855 [INFO] Time taken to get the response: 9.918552160263062 seconds
+2024-11-23 13:53:12,923 [INFO] Cache saved to file successfully.
+2024-11-23 13:53:13,014 [INFO] Database db_1911 connection successful!
+2024-11-23 13:54:07,462 [INFO] Time taken to execute get embedding: 2.1273176670074463 seconds
+2024-11-23 13:54:24,573 [INFO] Cleaned response: Based on the provided context, here are the detailed steps to pay tuition fees:
+
+**Step 1: Access your myLoyalist portal account**
+
+* Click on the "myLoyalist" link (top right corner) at https://www.loyalistcollege.com/
+* Sign into your myLoyalist portal account.
+
+**If you cannot login, please contact servicedesk@loyalistcollege.com**
+
+**Step 2: View your Account Summary**
+
+* Click on "Account Summary"
+* Ensure that the term balances are correct.
+
+**Step 3: Determine your outstanding balance**
+
+* Subtract the Account Balance from the Student Invoice to determine your outstanding balance.
+* Available in Alternate Formats Upon Request
+
+**Step 4: Make a payment using Flywire or Online Banking**
+
+There are two methods of payment:
+
+1. **Through Flywire**
+	* Inside Canada:
+		+ Go to loyalistcollege.flywire.com
+		+ Select Canada from the Country or region drop-down.
+		+ Enter payment amount then click Next.
+		+ Click select for which payment method you would like to use.
+		+ Enter payer information and click next.
+		+ Enter receiver information **you will need your student ID number** click next
+		+ Review and confirm Payment.
+	* Outside Canada:
+		+ Go to loyalistcollege.flywire.com
+		+ Select Canada from the Country or region drop-down.
+		+ Enter payment amount then click Next.
+		+ Click select for which payment method you would like to use.
+		+ Enter payer information and click next.
+		+ Note: Direct Debit and Credit Card Payments can take 2-5 business days to process before it is received by Loyalist College. Contact Flywire Support for more information.
+2. **Through Online Banking (Canadian Bank)**
+	* Login to your online banking account
+	* Go to Pay Bills or Bill Payments
+	* Add Payee – Search for Loyalist College – Belleville or Loyalist College
+	* Add your student number as the account number (9 digits)
+
+**Note:** Direct Debit and Credit Card Payments can take 2-5 business days to process before it is received by Loyalist College.
+2024-11-23 13:54:24,576 [INFO] Time taken to get the response: 14.962204694747925 seconds
+2024-11-23 13:54:24,639 [INFO] Cache saved to file successfully.
+2024-11-23 13:54:24,693 [INFO] Database db_1911 connection successful!
+2024-11-23 13:55:16,497 [INFO] Time taken to execute get embedding: 2.117172956466675 seconds
+2024-11-23 13:55:24,282 [INFO] Cleaned response: yes, the event is indeed live-streamed. 
+
+Statement in TPR 004 - RG 001 Convocation Planning Procedure:
+
+"7. The event is live-streamed..."
+2024-11-23 13:55:24,283 [INFO] Time taken to get the response: 5.682764768600464 seconds
+2024-11-23 13:55:24,312 [INFO] Cache saved to file successfully.
+2024-11-23 13:55:24,358 [INFO] Database db_1911 connection successful!
+2024-11-23 13:55:44,515 [INFO] Time taken to execute get embedding: 2.107097625732422 seconds
+2024-11-23 13:55:51,679 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-11-23 13:55:51,679 [INFO] Time taken to get the response: 5.032340049743652 seconds
+2024-11-23 13:55:51,712 [INFO] Cache saved to file successfully.
+2024-11-23 13:55:51,759 [INFO] Database db_1911 connection successful!
+2024-11-23 13:56:12,016 [INFO] Removed cached query due to negative feedback: ('84', 'who gave direction for the covoction ')
+2024-11-23 13:56:14,155 [INFO] Time taken to execute get embedding: 2.1265175342559814 seconds
+2024-11-23 13:56:22,776 [INFO] Cleaned response: Sorry, I couldn't find specific information on "covoction" in the context provided. However, based on the provided text, I found a reference to a "Behavioral Contract" and a "Risk Assessment and Review Committee".
+
+It is mentioned in point 2 of the CO-OP information that the student will be required to meet with the Director of Career and Co-Op to receive notification of the results of an investigation and receive the behavioral contract (Appendix VI).
+2024-11-23 13:56:22,776 [INFO] Time taken to get the response: 6.494617223739624 seconds
+2024-11-23 13:56:22,798 [INFO] Cache saved to file successfully.
+2024-11-23 13:56:22,841 [INFO] Database db_1911 connection successful!
+2024-11-23 13:56:53,874 [INFO] Time taken to execute get embedding: 2.0945420265197754 seconds
+2024-11-23 13:56:56,006 [INFO] Returning cached result for a similar query: ('84', 'who gave direction for the covoction ')
+2024-11-23 13:56:56,006 [INFO] Returning cached result
+2024-11-23 13:57:14,039 [INFO] Removed cached query due to negative feedback: ('84', 'who gave direction for the covoction ')
+2024-11-23 13:57:16,160 [INFO] Time taken to execute get embedding: 2.112609386444092 seconds
+2024-11-23 13:57:24,475 [INFO] Cleaned response: According to Policy 004 - RG 001 (Convocation Planning Procedure), it was the Campus Liaison Director, who is also the liaison between LCIT and LCIB for convocation planning, that gives direction concerning the branding, the convocation program, the booklet production, and the securing of future dates.
+2024-11-23 13:57:24,476 [INFO] Time taken to get the response: 6.1595189571380615 seconds
+2024-11-23 13:57:24,512 [INFO] Cache saved to file successfully.
+2024-11-23 13:57:24,558 [INFO] Database db_1911 connection successful!
+2024-11-23 13:59:03,397 [INFO] Cache saved to file successfully.
+2024-11-23 13:59:12,713 [INFO] Database db_1911 connection successful!
+2024-11-23 13:59:12,726 [INFO] Database initialized or updated successfully!
+2024-11-23 13:59:12,746 [INFO] Cache loaded from file successfully.
+2024-11-23 13:59:20,677 [INFO] Removed cached query due to negative feedback: ('109', 'who gave direction for the convocation')
+2024-11-23 13:59:22,797 [INFO] Time taken to execute get embedding: 2.107689142227173 seconds
+2024-11-23 13:59:30,904 [INFO] Cleaned response: According to policy (associated with Convocation Planning Procedure Number: TPR 004 - RG 001), the Campus Liaison Director, who is also the liaison between LCIT and LCIB for convocation planning, gives direction concerning the branding, the convocation program, the booklet production, and the securing of future dates.
+2024-11-23 13:59:30,905 [INFO] Time taken to get the response: 5.94071888923645 seconds
+2024-11-23 13:59:30,944 [INFO] Cache saved to file successfully.
+2024-11-23 13:59:30,985 [INFO] Database db_1911 connection successful!
+2024-11-23 14:04:51,059 [INFO] Cache saved to file successfully.
+2024-11-23 14:05:02,380 [INFO] Database db_1911 connection successful!
+2024-11-23 14:05:02,405 [INFO] Database initialized or updated successfully!
+2024-11-23 14:05:02,420 [INFO] Cache loaded from file successfully.
+2024-11-23 14:05:11,646 [INFO] Removed cached query due to negative feedback: ('109', 'who gave direction for the convocation')
+2024-11-23 14:05:13,719 [INFO] Time taken to execute get embedding: 2.062559127807617 seconds
+2024-11-23 14:05:24,526 [INFO] Cleaned response: the Campus Liaison Director gives direction concerning the branding, convocation program, booklet production, and securing of future dates for convocation planning (Policy: Convocation Planning Procedure Number: TPR 004 - RG 001, Section 6).
+2024-11-23 14:05:24,527 [INFO] Time taken to get the response: 8.708463191986084 seconds
+2024-11-23 14:05:24,527 [INFO] Storing query in cache. Knowledge ID :109 , query:who gave direction for the convocation , cleaned_response:the Campus Liaison Director gives direction concerning the branding, convocation program, booklet production, and securing of future dates for convocation planning (Policy: Convocation Planning Procedure Number: TPR 004 - RG 001, Section 6).
+2024-11-23 14:05:24,527 [INFO] Cache saved to file successfully.
+2024-11-23 14:05:24,574 [INFO] Database db_1911 connection successful!
+2024-11-23 14:08:08,913 [INFO] Cache saved to file successfully.
+2024-11-24 00:34:33,089 [INFO] Database db_1911 connection successful!
+2024-11-24 00:34:33,099 [INFO] Database initialized or updated successfully!
+2024-11-24 00:34:33,102 [INFO] Cache loaded from file successfully.
+2024-11-24 00:36:09,648 [INFO] Time taken to execute get embedding: 3.5765602588653564 seconds
+2024-11-24 00:36:22,259 [INFO] Returning cached result for a similar query: ('98', 'Which AI tools can I use to do my assignments?')
+2024-11-24 00:36:22,259 [INFO] Returning cached result
+2024-11-24 00:37:15,488 [INFO] Removed cached query due to negative feedback: ('98', 'Which AI tools can I use to do my assignments?')
+2024-11-24 00:37:17,576 [INFO] Time taken to execute get embedding: 2.082226037979126 seconds
+2024-11-24 00:37:39,719 [INFO] Cleaned response: Sorry, I couldn't find specific information on the AI tools that you can use for your assignments. However, based on the context provided in the Course Announcement and assessment instructions, it is mentioned that Gen AI tools such as ChatGPT, Bard, Scribe, etc. are capable of generating text, images, audio, and so forth.
+
+It is also recommended to review the guidelines for embracing AI into teaching and learning (Student Version) which can be found on the Toronto Business College website or in your course materials.
+2024-11-24 00:37:39,720 [INFO] Time taken to get the response: 9.39957046508789 seconds
+2024-11-24 00:37:39,720 [INFO] Storing query in cache. Knowledge ID :99 , query:which ai tools i can for assignment , cleaned_response:Sorry, I couldn't find specific information on the AI tools that you can use for your assignments. However, based on the context provided in the Course Announcement and assessment instructions, it is mentioned that Gen AI tools such as ChatGPT, Bard, Scribe, etc. are capable of generating text, images, audio, and so forth.
+
+It is also recommended to review the guidelines for embracing AI into teaching and learning (Student Version) which can be found on the Toronto Business College website or in your course materials.
+2024-11-24 00:37:39,721 [INFO] Cache saved to file successfully.
+2024-11-24 00:37:39,746 [INFO] Database db_1911 connection successful!
+2024-11-24 00:41:23,556 [INFO] Time taken to execute get embedding: 2.0594191551208496 seconds
+2024-11-24 00:41:36,361 [INFO] Returning cached result for a similar query: ('98', 'What are some examples of generative artificial intelligence tools mentioned in the content?')
+2024-11-24 00:41:36,361 [INFO] Returning cached result
+2024-11-24 00:42:49,499 [INFO] Cache saved to file successfully.
+2024-11-24 00:43:16,080 [INFO] Database db_1911 connection successful!
+2024-11-24 00:43:16,080 [INFO] Database initialized or updated successfully!
+2024-11-24 00:43:23,313 [INFO] Time taken to execute get embedding: 2.104464530944824 seconds
+2024-11-24 00:43:43,156 [INFO] Cleaned response: the following are some examples of Generative Artificial Intelligence (AI) tools mentioned:
+
+1. ChatGPT
+2. Bard
+3. Scribe
+2024-11-24 00:43:43,157 [INFO] Time taken to get the response: 7.060106992721558 seconds
+2024-11-24 00:43:43,157 [INFO] Storing query in cache. Knowledge ID :98 , query:What are some examples of generative artificial intelligence tools mentioned in the content? , cleaned_response:the following are some examples of Generative Artificial Intelligence (AI) tools mentioned:
+
+1. ChatGPT
+2. Bard
+3. Scribe
+2024-11-24 00:43:43,158 [INFO] Cache saved to file successfully.
+2024-11-24 00:43:43,182 [INFO] Database db_1911 connection successful!
+2024-11-24 00:44:45,853 [INFO] Time taken to execute get embedding: 2.0941171646118164 seconds
+2024-11-24 00:45:04,462 [INFO] Cleaned response: you can refer to the guidelines for embracing AI into teaching and learning. 
+
+The guidelines mention "Generative artificial intelligence (Gen AI) tools such as ChatGPT, Bard, Scribe" but do not explicitly list all available AI tools that can be used.
+
+However, it does mention some specific tools like ChatGPT, Bard, and Scribe, which are mentioned in the introduction.
+2024-11-24 00:45:04,463 [INFO] Time taken to get the response: 6.008787393569946 seconds
+2024-11-24 00:45:04,463 [INFO] Storing query in cache. Knowledge ID :98 , query:which ai tools i can use for assignments , cleaned_response:you can refer to the guidelines for embracing AI into teaching and learning. 
+
+The guidelines mention "Generative artificial intelligence (Gen AI) tools such as ChatGPT, Bard, Scribe" but do not explicitly list all available AI tools that can be used.
+
+However, it does mention some specific tools like ChatGPT, Bard, and Scribe, which are mentioned in the introduction.
+2024-11-24 00:45:04,464 [INFO] Cache saved to file successfully.
+2024-11-24 00:45:04,499 [INFO] Database db_1911 connection successful!
+2024-11-24 00:48:08,934 [INFO] Time taken to execute get embedding: 2.0983669757843018 seconds
+2024-11-24 00:48:28,393 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic in the provided context. However, I can provide some related information.
+
+According to Section 7 of the document, students do not have an automatic right to administrative powers or privileges. Instead, the college reserves the right to act under its code regardless of whether proceedings have been commenced by outside parties (Section 1).
+
+Additionally, there is no mention in the context of students having the authority to appoint administrators or exercise their powers and duties.
+
+For further details on student rights and responsibilities, including access to administrative privileges, I recommend contacting Enrolment Services at registration@tbcollege.com or visiting their office during regular hours.
+2024-11-24 00:48:28,394 [INFO] Time taken to get the response: 6.667301416397095 seconds
+2024-11-24 00:48:28,394 [INFO] Storing query in cache. Knowledge ID :77 , query:can i have admin rights?  , cleaned_response:Sorry, I couldn't find specific information on that topic in the provided context. However, I can provide some related information.
+
+According to Section 7 of the document, students do not have an automatic right to administrative powers or privileges. Instead, the college reserves the right to act under its code regardless of whether proceedings have been commenced by outside parties (Section 1).
+
+Additionally, there is no mention in the context of students having the authority to appoint administrators or exercise their powers and duties.
+
+For further details on student rights and responsibilities, including access to administrative privileges, I recommend contacting Enrolment Services at registration@tbcollege.com or visiting their office during regular hours.
+2024-11-24 00:48:28,396 [INFO] Cache saved to file successfully.
+2024-11-24 00:48:28,420 [INFO] Database db_1911 connection successful!
+2024-11-24 00:48:57,757 [INFO] Time taken to execute get embedding: 2.102080821990967 seconds
+2024-11-24 00:49:15,572 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic in the provided context. The GPA (Grade Point Average) is not mentioned anywhere in the documents. For further details, please contact academics or student success.
+2024-11-24 00:49:15,572 [INFO] Time taken to get the response: 5.214337110519409 seconds
+2024-11-24 00:49:15,573 [INFO] Storing query in cache. Knowledge ID :93 , query:how to check the my gpa?  , cleaned_response:Sorry, I couldn't find specific information on that topic in the provided context. The GPA (Grade Point Average) is not mentioned anywhere in the documents. For further details, please contact academics or student success.
+2024-11-24 00:49:15,573 [INFO] Cache saved to file successfully.
+2024-11-24 00:49:15,599 [INFO] Database db_1911 connection successful!
+2024-11-24 00:49:31,696 [INFO] Time taken to execute get embedding: 2.065627098083496 seconds
+2024-11-24 00:49:49,035 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-11-24 00:49:49,035 [INFO] Time taken to get the response: 4.802658319473267 seconds
+2024-11-24 00:49:49,035 [INFO] Storing query in cache. Knowledge ID :104 , query:where i can check my percentage  , cleaned_response:Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-11-24 00:49:49,035 [INFO] Cache saved to file successfully.
+2024-11-24 00:49:49,057 [INFO] Database db_1911 connection successful!
+2024-11-24 00:50:00,322 [INFO] Time taken to execute get embedding: 2.069305658340454 seconds
+2024-11-24 00:50:19,762 [INFO] Cleaned response: I'm happy to help with your questions, but I want to let you know that I'll do my best to provide information strictly based on the context from the provided documents. If a question is ambiguous or broad, I'll try to interpret it and respond with relevant factual information found in the context.
+
+Regarding your request to ask personal questions, according to the context, I can provide general guidance while maintaining confidentiality and respect for individual boundaries. However, please note that my primary goal is to provide information based on the provided documents, and I may not be able to delve into extremely personal or sensitive topics.
+
+That being said, I'm here to help! What's on your mind? Do you have questions about study techniques, academic support, or something else related to Loyalist College?
+2024-11-24 00:50:19,763 [INFO] Time taken to get the response: 6.8213584423065186 seconds
+2024-11-24 00:50:19,763 [INFO] Storing query in cache. Knowledge ID :82 , query:can i ask you some personnal questions? , cleaned_response:I'm happy to help with your questions, but I want to let you know that I'll do my best to provide information strictly based on the context from the provided documents. If a question is ambiguous or broad, I'll try to interpret it and respond with relevant factual information found in the context.
+
+Regarding your request to ask personal questions, according to the context, I can provide general guidance while maintaining confidentiality and respect for individual boundaries. However, please note that my primary goal is to provide information based on the provided documents, and I may not be able to delve into extremely personal or sensitive topics.
+
+That being said, I'm here to help! What's on your mind? Do you have questions about study techniques, academic support, or something else related to Loyalist College?
+2024-11-24 00:50:19,763 [INFO] Cache saved to file successfully.
+2024-11-24 00:50:19,786 [INFO] Database db_1911 connection successful!
+2024-11-24 00:50:38,440 [INFO] Time taken to execute get embedding: 2.0926449298858643 seconds
+2024-11-24 00:50:57,289 [INFO] Cleaned response: provided, Career Advising is mentioned under "10.2 Career Advising" section, which states:
+
+"Benefit from our career advising services, offering personalized guidance and resources to help you navigate your professional journey."
+
+Additionally, it provides a direct link to book a career advising session by clicking on this email address: CoopandCareerAdvisorAppointments@tbcollege.com
+2024-11-24 00:50:57,290 [INFO] Time taken to get the response: 6.118160724639893 seconds
+2024-11-24 00:50:57,290 [INFO] Storing query in cache. Knowledge ID :94 , query:what is career advising? , cleaned_response:provided, Career Advising is mentioned under "10.2 Career Advising" section, which states:
+
+"Benefit from our career advising services, offering personalized guidance and resources to help you navigate your professional journey."
+
+Additionally, it provides a direct link to book a career advising session by clicking on this email address: CoopandCareerAdvisorAppointments@tbcollege.com
+2024-11-24 00:50:57,291 [INFO] Cache saved to file successfully.
+2024-11-24 00:50:57,311 [INFO] Database db_1911 connection successful!
+2024-11-24 00:51:54,895 [INFO] Cache saved to file successfully.
+2024-11-24 00:51:59,614 [INFO] Database db_1911 connection successful!
+2024-11-24 00:51:59,614 [INFO] Database initialized or updated successfully!
+2024-11-24 00:51:59,614 [INFO] Cache loaded from file successfully.
+2024-11-24 00:52:29,899 [INFO] Time taken to execute get embedding: 2.0913100242614746 seconds
+2024-11-24 00:52:31,964 [INFO] Returning cached result for a similar query: ('82', 'can i ask you some personnal questions?')
+2024-11-24 00:52:31,964 [INFO] Returning cached result
+2024-11-24 00:54:01,428 [INFO] Time taken to execute get embedding: 2.135985851287842 seconds
+2024-11-24 00:54:03,487 [INFO] Returning cached result for a similar query: ('104', 'where i can check my percentage ')
+2024-11-24 00:54:03,488 [INFO] Returning cached result
+2024-11-24 00:54:30,248 [INFO] Time taken to execute get embedding: 2.0774455070495605 seconds
+2024-11-24 00:54:32,383 [INFO] Returning cached result for a similar query: ('82', 'can i ask you some personnal questions?')
+2024-11-24 00:54:32,383 [INFO] Returning cached result
+2024-11-24 00:56:15,688 [INFO] Cache saved to file successfully.
+2024-11-25 09:21:10,171 [INFO] Database db_1911 connection successful!
+2024-11-25 09:21:10,224 [INFO] Database initialized or updated successfully!
+2024-11-25 09:21:10,236 [INFO] Cache loaded from file successfully.
+2024-11-25 09:21:20,123 [INFO] Time taken to execute get embedding: 5.837196350097656 seconds
+2024-11-25 09:21:32,541 [INFO] Cleaned response: Hello! Welcome to the Toronto Business College website. How can I assist you today? Are you a prospective student, employee, or visitor looking for information on Loyalist College or our programs?
+2024-11-25 09:21:32,542 [INFO] Time taken to get the response: 10.255240440368652 seconds
+2024-11-25 09:21:32,542 [INFO] Storing query in cache. Knowledge ID :88 , query:hello , cleaned_response:Hello! Welcome to the Toronto Business College website. How can I assist you today? Are you a prospective student, employee, or visitor looking for information on Loyalist College or our programs?
+2024-11-25 09:21:32,546 [INFO] Cache saved to file successfully.
+2024-11-25 09:21:32,607 [INFO] Database db_1911 connection successful!
+2024-11-25 09:21:57,776 [INFO] Time taken to execute get embedding: 2.127441883087158 seconds
+2024-11-25 09:21:59,929 [INFO] Returning cached result for a similar query: ('98', 'which ai tools i can use for assignments')
+2024-11-25 09:21:59,929 [INFO] Returning cached result
+2024-11-25 09:22:12,459 [INFO] Time taken to execute get embedding: 2.11221981048584 seconds
+2024-11-25 09:22:21,292 [INFO] Cleaned response: I think there might be a small typo in your question. You meant to type "accommodation", right?
+
+ Loyalist College offers accommodation upon request for students. However, I couldn't find specific information on the types of accommodations available or the process for requesting one.
+
+If you're looking for more information on accommodation options at Loyalist College, I would suggest reaching out to student success or academic support services for further guidance. They may be able to provide you with more detailed information and answer any questions you have about accommodation arrangements.
+2024-11-25 09:22:21,293 [INFO] Time taken to get the response: 6.698903560638428 seconds
+2024-11-25 09:22:21,293 [INFO] Storing query in cache. Knowledge ID :73 , query:i want accomadation , cleaned_response:I think there might be a small typo in your question. You meant to type "accommodation", right?
+
+ Loyalist College offers accommodation upon request for students. However, I couldn't find specific information on the types of accommodations available or the process for requesting one.
+
+If you're looking for more information on accommodation options at Loyalist College, I would suggest reaching out to student success or academic support services for further guidance. They may be able to provide you with more detailed information and answer any questions you have about accommodation arrangements.
+2024-11-25 09:22:21,300 [INFO] Cache saved to file successfully.
+2024-11-25 09:22:21,360 [INFO] Database db_1911 connection successful!
+2024-11-25 09:22:52,316 [INFO] Time taken to execute get embedding: 2.193512439727783 seconds
+2024-11-25 09:22:59,779 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-11-25 09:22:59,779 [INFO] Time taken to get the response: 5.300498723983765 seconds
+2024-11-25 09:22:59,779 [INFO] Storing query in cache. Knowledge ID :82 , query:how can i get academic accomodation , cleaned_response:Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-11-25 09:22:59,779 [INFO] Cache saved to file successfully.
+2024-11-25 09:22:59,840 [INFO] Database db_1911 connection successful!
+2024-11-25 09:23:13,418 [INFO] Removed cached query due to negative feedback: ('82', 'how can i get academic accomodation')
+2024-11-25 09:23:17,568 [INFO] Time taken to execute get embedding: 2.0682809352874756 seconds
+2024-11-25 09:23:25,770 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic. For further details, please contact Enrollment Services.  students are responsible for remaining in good financial standing and resolving all holds placed on their account, and they should contact Enrollment Services with any questions or concerns regarding course enrollment, graduation, group selection, updating academic progression, payment, and fees.
+2024-11-25 09:23:25,770 [INFO] Time taken to get the response: 6.042623996734619 seconds
+2024-11-25 09:23:25,770 [INFO] Storing query in cache. Knowledge ID :82 , query:how can i get academic accomodation , cleaned_response:Sorry, I couldn't find specific information on that topic. For further details, please contact Enrollment Services.  students are responsible for remaining in good financial standing and resolving all holds placed on their account, and they should contact Enrollment Services with any questions or concerns regarding course enrollment, graduation, group selection, updating academic progression, payment, and fees.
+2024-11-25 09:23:25,772 [INFO] Cache saved to file successfully.
+2024-11-25 09:23:25,822 [INFO] Database db_1911 connection successful!
+2024-11-25 09:23:27,897 [INFO] Time taken to execute get embedding: 2.0652577877044678 seconds
+2024-11-25 09:23:30,049 [INFO] Returning cached result for a similar query: ('82', 'how can i get academic accomodation')
+2024-11-25 09:23:30,049 [INFO] Returning cached result
+2024-11-25 09:23:53,051 [INFO] Time taken to execute get embedding: 2.111978054046631 seconds
+2024-11-25 09:24:03,392 [INFO] Cleaned response: Based on the provided context, I found relevant information related to "Academic Procedure" under the category "Associated Procedures".
+
+ some associated procedures for TPR 001 include:
+
+* TPR 001 - AC 002 - Academic Appeal Procedure
+* TPR 001 - AC 003 - Exam Rules of Engagement
+* TPR 001 - AC 004 - Standards of Teaching Practice
+* TPR 001 - AC 005 - AIP Project Advisors Scheduling
+* TPR 001 - AC 006 - Academic Intervention Procedure
+* TPR 001 - AC 007 - Breach of Academic Integrity
+
+These procedures seem to cover various aspects of academic processes, such as appeals, exam rules, standards of teaching practice, and handling breaches of academic integrity.
+
+If you have a specific question about one of these procedures or would like more information, please let me know!
+2024-11-25 09:24:03,392 [INFO] Time taken to get the response: 8.18049955368042 seconds
+2024-11-25 09:24:03,392 [INFO] Storing query in cache. Knowledge ID :120 , query:academic procedure , cleaned_response:Based on the provided context, I found relevant information related to "Academic Procedure" under the category "Associated Procedures".
+
+ some associated procedures for TPR 001 include:
+
+* TPR 001 - AC 002 - Academic Appeal Procedure
+* TPR 001 - AC 003 - Exam Rules of Engagement
+* TPR 001 - AC 004 - Standards of Teaching Practice
+* TPR 001 - AC 005 - AIP Project Advisors Scheduling
+* TPR 001 - AC 006 - Academic Intervention Procedure
+* TPR 001 - AC 007 - Breach of Academic Integrity
+
+These procedures seem to cover various aspects of academic processes, such as appeals, exam rules, standards of teaching practice, and handling breaches of academic integrity.
+
+If you have a specific question about one of these procedures or would like more information, please let me know!
+2024-11-25 09:24:03,396 [INFO] Cache saved to file successfully.
+2024-11-25 09:24:03,490 [INFO] Database db_1911 connection successful!
+2024-11-25 09:24:40,182 [INFO] Time taken to execute get embedding: 2.13561749458313 seconds
+2024-11-25 09:24:52,271 [INFO] Cleaned response: the Academic Appeal Procedure involves a 3-stage process:
+
+1. Stage 1A: The student submits an Academic Appeal Request Form - Stage 1 to the faculty member who taught the course, including the Academic Department in the request (academics@tbcollege.com). The faculty member responds within five (5) business days and includes the Academic Department in the email.
+2. Stage 1B: If the final grades are involved, the student submits the form within five (5) business days from the issuance of the final grade. The faculty member responds within ten (10) business days after the issuance of their final grades.
+3. If not in favour of the decision: After receiving the decision from the faculty, the student may appeal the decision within five (5) business days.
+
+It's also mentioned that if there is an appeal related to a penalty for academic dishonesty, breach of confidentiality, or actions taken by the College as a result of a student's failure to meet minimum program performance standard, the process and timelines might be different.
+
+Please let me know how I can assist you further!
+2024-11-25 09:24:52,276 [INFO] Time taken to get the response: 9.92780590057373 seconds
+2024-11-25 09:24:52,276 [INFO] Storing query in cache. Knowledge ID :102 , query:Academic Appeal Procedure , cleaned_response:the Academic Appeal Procedure involves a 3-stage process:
+
+1. Stage 1A: The student submits an Academic Appeal Request Form - Stage 1 to the faculty member who taught the course, including the Academic Department in the request (academics@tbcollege.com). The faculty member responds within five (5) business days and includes the Academic Department in the email.
+2. Stage 1B: If the final grades are involved, the student submits the form within five (5) business days from the issuance of the final grade. The faculty member responds within ten (10) business days after the issuance of their final grades.
+3. If not in favour of the decision: After receiving the decision from the faculty, the student may appeal the decision within five (5) business days.
+
+It's also mentioned that if there is an appeal related to a penalty for academic dishonesty, breach of confidentiality, or actions taken by the College as a result of a student's failure to meet minimum program performance standard, the process and timelines might be different.
+
+Please let me know how I can assist you further!
+2024-11-25 09:24:52,281 [INFO] Cache saved to file successfully.
+2024-11-25 09:24:52,365 [INFO] Database db_1911 connection successful!
+2024-11-25 09:41:41,319 [INFO] Time taken to execute get embedding: 3.4492340087890625 seconds
+2024-11-25 09:41:54,974 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success. 
+
+However, I can provide some general guidance based on the provided context. According to section 2 of the document "Procedure", students must fill out and submit an Accessibility Services Application form (available in Alternate Formats Upon Request) to request accommodations. This form requires providing a detailed explanation of the functional impact of their disability on the pursuit of post-secondary education, among other information.
+
+It's likely that you'll need to follow these steps:
+
+1. Complete the Accessibility Services Application form and submit it.
+2. Work with the Accessibility Services team to develop an Academic Accommodation Plan.
+3. Implement the plan by following up with your instructor and communicating any necessary adjustments or accommodations for missing assignments.
+
+To get started, I recommend reviewing the Accessibility Services Application form and reaching out to the Accessibility Services team at Loyalist College for guidance on how to proceed.
+2024-11-25 09:41:54,977 [INFO] Time taken to get the response: 11.51225757598877 seconds
+2024-11-25 09:41:54,977 [INFO] Storing query in cache. Knowledge ID :123 , query:how can i get accommodation for missing assignment , cleaned_response:Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success. 
+
+However, I can provide some general guidance based on the provided context. According to section 2 of the document "Procedure", students must fill out and submit an Accessibility Services Application form (available in Alternate Formats Upon Request) to request accommodations. This form requires providing a detailed explanation of the functional impact of their disability on the pursuit of post-secondary education, among other information.
+
+It's likely that you'll need to follow these steps:
+
+1. Complete the Accessibility Services Application form and submit it.
+2. Work with the Accessibility Services team to develop an Academic Accommodation Plan.
+3. Implement the plan by following up with your instructor and communicating any necessary adjustments or accommodations for missing assignments.
+
+To get started, I recommend reviewing the Accessibility Services Application form and reaching out to the Accessibility Services team at Loyalist College for guidance on how to proceed.
+2024-11-25 09:41:54,977 [INFO] Cache saved to file successfully.
+2024-11-25 09:41:55,053 [INFO] Database db_1911 connection successful!
+2024-11-25 09:44:51,838 [INFO] Time taken to execute get embedding: 2.116098403930664 seconds
+2024-11-25 09:45:00,780 [INFO] Cleaned response: you can request a tutor by emailing studentsuccess@tbcollege.com, and they will provide you with an academic request tutor form to fill out. The form is also available on Moodle. 
+
+Additionally, if you're looking for one-on-one peer tutoring, you can contact the Coordination Office or walk-in at their office for short tutoring sessions on a first-come, first-served basis.
+
+If you need further assistance, please let me know and I'll do my best to help!
+2024-11-25 09:45:00,782 [INFO] Time taken to get the response: 6.763200283050537 seconds
+2024-11-25 09:45:00,782 [INFO] Storing query in cache. Knowledge ID :82 , query:how can i get tutoring service , cleaned_response:you can request a tutor by emailing studentsuccess@tbcollege.com, and they will provide you with an academic request tutor form to fill out. The form is also available on Moodle. 
+
+Additionally, if you're looking for one-on-one peer tutoring, you can contact the Coordination Office or walk-in at their office for short tutoring sessions on a first-come, first-served basis.
+
+If you need further assistance, please let me know and I'll do my best to help!
+2024-11-25 09:45:00,790 [INFO] Cache saved to file successfully.
+2024-11-25 09:45:00,888 [INFO] Database db_1911 connection successful!
+2024-11-25 09:47:02,457 [INFO] Time taken to execute get embedding: 2.102505683898926 seconds
+2024-11-25 09:47:12,456 [INFO] Cleaned response: to renew an expired Student ID card, you must present your expired ID card to reissue a new ID Card. There is no charge to replace an expired Student ID if you present the expired card. If you do not have the expired card, you will be charged for the replacement card according to the replacement fee schedule noted above.
+
+You can also renew your ID card by submitting the form and going to the front desk during regular office hours (Monday to Saturday, between 8:00 am and 5:00 pm). You must present your LOA/current enrolment letter to pick up your ID card.
+2024-11-25 09:47:12,456 [INFO] Time taken to get the response: 7.833953857421875 seconds
+2024-11-25 09:47:12,456 [INFO] Storing query in cache. Knowledge ID :69 , query:how can i renew the id card , cleaned_response:to renew an expired Student ID card, you must present your expired ID card to reissue a new ID Card. There is no charge to replace an expired Student ID if you present the expired card. If you do not have the expired card, you will be charged for the replacement card according to the replacement fee schedule noted above.
+
+You can also renew your ID card by submitting the form and going to the front desk during regular office hours (Monday to Saturday, between 8:00 am and 5:00 pm). You must present your LOA/current enrolment letter to pick up your ID card.
+2024-11-25 09:47:12,463 [INFO] Cache saved to file successfully.
+2024-11-25 09:47:12,534 [INFO] Database db_1911 connection successful!
+2024-11-25 09:51:14,971 [INFO] Time taken to execute get embedding: 2.06145977973938 seconds
+2024-11-25 09:51:23,006 [INFO] Cleaned response: To report a lost item and potentially claim it from the Lost and Found, please visit the front desk of Loyalist College in person with your student ID card. This ensures that the staff at the front desk can verify the ownership of the item and follow the procedures outlined in the college's policies.
+2024-11-25 09:51:23,006 [INFO] Time taken to get the response: 5.926514387130737 seconds
+2024-11-25 09:51:23,006 [INFO] Storing query in cache. Knowledge ID :76 , query:i lost my thing how can i find it , cleaned_response:To report a lost item and potentially claim it from the Lost and Found, please visit the front desk of Loyalist College in person with your student ID card. This ensures that the staff at the front desk can verify the ownership of the item and follow the procedures outlined in the college's policies.
+2024-11-25 09:51:23,015 [INFO] Cache saved to file successfully.
+2024-11-25 09:51:23,072 [INFO] Database db_1911 connection successful!
+2024-11-25 09:52:19,825 [INFO] Time taken to execute get embedding: 2.076643705368042 seconds
+2024-11-25 09:52:30,919 [INFO] Cleaned response: To initiate a grade appeal at Loyalist College, follow these steps:
+
+1. Connect with your instructor first to resolve any concern informally.
+2. If the concern cannot be resolved through the informal process, you may choose to pursue a formal Academic Appeal.
+3. You can initiate an appeal at any time during the semester but must submit it within five working days from the issuance of the final grades.
+
+To start the formal grade appeal process:
+
+1. Complete and submit the Academic Appeal form - Academic-Appeal-Form Stage 1A.
+2. Submit the form to your faculty who taught your course, including the Academic Department (academics@tbcollege.com).
+
+Please note that you must familiarize yourself with the Grade Appeal Process - Academic Appeal Procedure.
+
+Additionally, if you're requesting a supplemental opportunity, you must submit it within seven calendar days of the issuance of the final grades.
+2024-11-25 09:52:30,921 [INFO] Time taken to get the response: 8.964915752410889 seconds
+2024-11-25 09:52:30,926 [INFO] Storing query in cache. Knowledge ID :94 , query:how can i do grade appeal , cleaned_response:To initiate a grade appeal at Loyalist College, follow these steps:
+
+1. Connect with your instructor first to resolve any concern informally.
+2. If the concern cannot be resolved through the informal process, you may choose to pursue a formal Academic Appeal.
+3. You can initiate an appeal at any time during the semester but must submit it within five working days from the issuance of the final grades.
+
+To start the formal grade appeal process:
+
+1. Complete and submit the Academic Appeal form - Academic-Appeal-Form Stage 1A.
+2. Submit the form to your faculty who taught your course, including the Academic Department (academics@tbcollege.com).
+
+Please note that you must familiarize yourself with the Grade Appeal Process - Academic Appeal Procedure.
+
+Additionally, if you're requesting a supplemental opportunity, you must submit it within seven calendar days of the issuance of the final grades.
+2024-11-25 09:52:30,934 [INFO] Cache saved to file successfully.
+2024-11-25 09:52:31,019 [INFO] Database db_1911 connection successful!
+2024-11-25 09:53:35,822 [INFO] Time taken to execute get embedding: 2.13000226020813 seconds
+2024-11-25 09:53:43,498 [INFO] Cleaned response: you can file a complaint by using the Student Complaint form, which is available on the Learning Management System (Moodle).
+2024-11-25 09:53:43,498 [INFO] Time taken to get the response: 5.5581769943237305 seconds
+2024-11-25 09:53:43,498 [INFO] Storing query in cache. Knowledge ID :101 , query:how can i file complaint , cleaned_response:you can file a complaint by using the Student Complaint form, which is available on the Learning Management System (Moodle).
+2024-11-25 09:53:43,503 [INFO] Cache saved to file successfully.
+2024-11-25 09:53:43,561 [INFO] Database db_1911 connection successful!
+2024-11-25 10:41:02,300 [INFO] Time taken to execute get embedding: 3.256366729736328 seconds
+2024-11-25 10:41:04,437 [INFO] Returning cached result for a similar query: ('98', 'which ai tools i can use for assignments')
+2024-11-25 10:41:04,437 [INFO] Returning cached result
+2024-11-25 10:44:21,590 [INFO] Time taken to execute get embedding: 2.1184494495391846 seconds
+2024-11-25 10:44:34,072 [INFO] Cleaned response: I couldn't find specific information on "transcript for second sem" in the provided context. However, I found a related procedure that might be helpful.
+
+According to TPR 004 - RG 001 - Convocation Planning Procedure and TPR 001 - AC 008 - Course Retake, you can request a transcript through the college's procedures.
+
+You may want to check the procedure for "Request for Academic Records" or "Transcript Request" as it is not explicitly mentioned in the provided context. However, I couldn't find any information on this specific topic.
+
+For further details, please contact academics or student success.
+2024-11-25 10:44:34,074 [INFO] Time taken to get the response: 10.319650888442993 seconds
+2024-11-25 10:44:34,074 [INFO] Storing query in cache. Knowledge ID :108 , query:how can i get transcipt for second sem , cleaned_response:I couldn't find specific information on "transcript for second sem" in the provided context. However, I found a related procedure that might be helpful.
+
+According to TPR 004 - RG 001 - Convocation Planning Procedure and TPR 001 - AC 008 - Course Retake, you can request a transcript through the college's procedures.
+
+You may want to check the procedure for "Request for Academic Records" or "Transcript Request" as it is not explicitly mentioned in the provided context. However, I couldn't find any information on this specific topic.
+
+For further details, please contact academics or student success.
+2024-11-25 10:44:34,079 [INFO] Cache saved to file successfully.
+2024-11-25 10:44:34,132 [INFO] Database db_1911 connection successful!
+2024-11-25 10:56:30,468 [INFO] Time taken to execute get embedding: 2.931422233581543 seconds
+2024-11-25 10:56:42,642 [INFO] Cleaned response: To determine your outstanding balance (fees left) for a specific term, you should:
+
+1. Log in to myApps and navigate to your myFees.
+2. Click on "Student Invoice" under the relevant term.
+3. Subtract the Account Balance from the Student Invoice amount.
+
+For example, according to Step 5 of the provided context, if your Student Invoice is $900.00 and your Account Balance is $266.22, the outstanding balance (fees left) would be:
+
+$900.00 (Student Invoice amount) - $266.22 (Account Balance) = $633.78
+
+So, in this case, you have $633.78 worth of fees left to pay before enrolling for that term.
+2024-11-25 10:56:42,646 [INFO] Time taken to get the response: 10.068744897842407 seconds
+2024-11-25 10:56:42,646 [INFO] Storing query in cache. Knowledge ID :93 , query:how can i see how many fees is left , cleaned_response:To determine your outstanding balance (fees left) for a specific term, you should:
+
+1. Log in to myApps and navigate to your myFees.
+2. Click on "Student Invoice" under the relevant term.
+3. Subtract the Account Balance from the Student Invoice amount.
+
+For example, according to Step 5 of the provided context, if your Student Invoice is $900.00 and your Account Balance is $266.22, the outstanding balance (fees left) would be:
+
+$900.00 (Student Invoice amount) - $266.22 (Account Balance) = $633.78
+
+So, in this case, you have $633.78 worth of fees left to pay before enrolling for that term.
+2024-11-25 10:56:42,646 [INFO] Cache saved to file successfully.
+2024-11-25 10:56:42,730 [INFO] Database db_1911 connection successful!
+2024-11-25 13:15:31,939 [INFO] Cache saved to file successfully.
+2024-11-25 13:15:40,633 [INFO] Database db_1911 connection successful!
+2024-11-25 13:15:40,651 [INFO] Database initialized or updated successfully!
+2024-11-25 13:15:40,658 [INFO] Cache loaded from file successfully.
+2024-11-25 13:15:57,676 [INFO] Cache saved to file successfully.
+2024-11-25 13:16:05,366 [INFO] Database db_1911 connection successful!
+2024-11-25 13:16:05,366 [INFO] Database initialized or updated successfully!
+2024-11-25 13:16:05,366 [INFO] Cache loaded from file successfully.
+2024-11-25 13:16:17,705 [INFO] Time taken to execute get embedding: 2.931408405303955 seconds
+2024-11-25 13:16:19,786 [INFO] Returning cached result for a similar query: ('88', 'hello')
+2024-11-25 13:16:19,786 [INFO] Returning cached result
+2024-11-25 13:18:04,384 [INFO] Time taken to execute get embedding: 2.1414761543273926 seconds
+2024-11-25 13:18:06,529 [INFO] Returning cached result for a similar query: ('88', 'hello')
+2024-11-25 13:18:06,530 [INFO] Returning cached result
+2024-11-25 13:18:14,587 [INFO] Removed cached query due to negative feedback: ('88', 'hello')
+2024-11-25 13:18:16,724 [INFO] Time taken to execute get embedding: 2.132551670074463 seconds
+2024-11-25 13:18:28,649 [INFO] Cleaned response: Hello!
+
+I'd be happy to help you with any questions you have. However, I notice that your question is quite general and doesn't seem related to the specific information provided in the context.
+
+Would you mind telling me a bit more about what you're looking for? Are you trying to get in touch with someone at Loyalist College, or perhaps learn something about their programs or services?
+
+I'm here to help, and I want to make sure I provide you with the most accurate and relevant information possible!
+2024-11-25 13:18:28,650 [INFO] Time taken to get the response: 9.772905826568604 seconds
+2024-11-25 13:18:28,650 [INFO] Storing query in cache. Knowledge ID :106 , query:hello how are you , cleaned_response:Hello!
+
+I'd be happy to help you with any questions you have. However, I notice that your question is quite general and doesn't seem related to the specific information provided in the context.
+
+Would you mind telling me a bit more about what you're looking for? Are you trying to get in touch with someone at Loyalist College, or perhaps learn something about their programs or services?
+
+I'm here to help, and I want to make sure I provide you with the most accurate and relevant information possible!
+2024-11-25 13:18:28,652 [INFO] Cache saved to file successfully.
+2024-11-25 13:18:28,681 [INFO] Database db_1911 connection successful!
+2024-11-25 13:28:52,714 [INFO] Cache saved to file successfully.
+2024-11-25 13:28:59,305 [INFO] Database db_1911 connection successful!
+2024-11-25 13:28:59,320 [INFO] Database initialized or updated successfully!
+2024-11-25 13:28:59,322 [INFO] Cache loaded from file successfully.
+2024-11-25 13:29:05,284 [INFO] Cache saved to file successfully.
+2024-11-25 13:29:11,284 [INFO] Database db_1911 connection successful!
+2024-11-25 13:29:11,302 [INFO] Database initialized or updated successfully!
+2024-11-25 13:29:11,303 [INFO] Cache loaded from file successfully.
+2024-11-25 13:29:33,575 [INFO] Time taken to execute get embedding: 3.1909711360931396 seconds
+2024-11-25 13:29:35,662 [INFO] Returning cached result for a similar query: ('106', 'hello how are you')
+2024-11-25 13:29:35,662 [INFO] Returning cached result
+2024-11-25 13:55:14,059 [INFO] Cache saved to file successfully.
+2024-11-27 09:37:50,515 [INFO] Database db_1911 connection successful!
+2024-11-27 09:37:50,530 [INFO] Database initialized or updated successfully!
+2024-11-27 09:37:50,541 [INFO] Cache loaded from file successfully.
+2024-11-27 09:39:03,520 [INFO] Time taken to execute get embedding: 4.816132307052612 seconds
+2024-11-27 09:39:05,700 [INFO] Returning cached result for a similar query: ('106', 'hello how are you')
+2024-11-27 09:39:05,700 [INFO] Returning cached result
+2024-11-27 09:45:39,411 [INFO] File saved successfully: ../admin/assets/pdf/LCIT Mailing Address and SIN Instructions.pdf
+2024-11-27 09:45:49,228 [INFO] Data embedded into database
+2024-11-27 09:45:51,315 [INFO] Time taken to execute get embedding: 2.086925983428955 seconds
+2024-11-27 09:46:04,507 [INFO] Cleaned response: The following are some examples of Generative Artificial Intelligence (Gen AI) tools mentioned in the context:
+
+1. ChatGPT
+2. Bard
+3. Scribe
+
+These tools are capable of generating text, images, audio, and other forms of content by analyzing patterns in their training data.
+2024-11-27 09:46:04,508 [INFO] Time taken to get the response: 11.026875257492065 seconds
+2024-11-27 09:46:04,509 [INFO] Storing query in cache. Knowledge ID :98 , query:What are some examples of generative artificial intelligence tools mentioned in the content? , cleaned_response:The following are some examples of Generative Artificial Intelligence (Gen AI) tools mentioned in the context:
+
+1. ChatGPT
+2. Bard
+3. Scribe
+
+These tools are capable of generating text, images, audio, and other forms of content by analyzing patterns in their training data.
+2024-11-27 09:46:04,511 [INFO] Cache saved to file successfully.
+2024-11-27 09:46:04,563 [INFO] Database db_1911 connection successful!
+2024-11-27 09:46:04,573 [INFO] Updated cache for query: What are some examples of generative artificial intelligence tools mentioned in the content? with new response
+2024-11-27 10:05:09,774 [INFO] File saved successfully: ../admin/assets/pdf/Class Representative List.pdf
+2024-11-27 10:05:17,330 [INFO] Data embedded into database
+2024-11-27 10:05:19,391 [INFO] Time taken to execute get embedding: 2.059281587600708 seconds
+2024-11-27 10:05:31,276 [INFO] Cleaned response: Gen AI tools such as ChatGPT, Bard, Scribe, and others are mentioned. However, I couldn't find a comprehensive list of AI tools that students can use for assignments.
+
+To clarify, you may want to refer to the guidelines "FOR EMBRACING AI INTO TEACHING AND LEARNING" specifically designed for TBC students, which might mention authorized Gen AI tools or provide guidance on how to choose suitable tools.
+2024-11-27 10:05:31,276 [INFO] Time taken to get the response: 9.758606910705566 seconds
+2024-11-27 10:05:31,276 [INFO] Storing query in cache. Knowledge ID :98 , query:which ai tools i can use for assignments , cleaned_response:Gen AI tools such as ChatGPT, Bard, Scribe, and others are mentioned. However, I couldn't find a comprehensive list of AI tools that students can use for assignments.
+
+To clarify, you may want to refer to the guidelines "FOR EMBRACING AI INTO TEACHING AND LEARNING" specifically designed for TBC students, which might mention authorized Gen AI tools or provide guidance on how to choose suitable tools.
+2024-11-27 10:05:31,282 [INFO] Cache saved to file successfully.
+2024-11-27 10:05:31,369 [INFO] Database db_1911 connection successful!
+2024-11-27 10:05:31,376 [INFO] Updated cache for query: which ai tools i can use for assignments with new response
+2024-11-27 10:55:10,570 [INFO] Time taken to execute get embedding: 3.150167465209961 seconds
+2024-11-27 10:55:19,848 [INFO] Cleaned response: I'm not sure I understand your question. Could you please rephrase or provide more context?
+2024-11-27 10:55:19,849 [INFO] Time taken to get the response: 7.123854160308838 seconds
+2024-11-27 10:55:19,850 [INFO] Storing query in cache. Knowledge ID :73 , query:bvdjfv , cleaned_response:I'm not sure I understand your question. Could you please rephrase or provide more context?
+2024-11-27 10:55:19,850 [INFO] Cache saved to file successfully.
+2024-11-27 10:55:19,900 [INFO] Database db_1911 connection successful!
+2024-11-27 10:56:41,779 [INFO] Time taken to execute get embedding: 2.0650827884674072 seconds
+2024-11-27 10:56:49,883 [INFO] Cleaned response: I'm happy to help you with your question, but I need a bit more clarity. What does "csd" stand for in the context of Loyalist College's programs? Is it an abbreviation related to one of their courses or programs (e.g., Computer Systems Developer, Cyber Security, etc.)? Could you please provide more details or context?
+2024-11-27 10:56:49,884 [INFO] Time taken to get the response: 5.983594655990601 seconds
+2024-11-27 10:56:49,884 [INFO] Storing query in cache. Knowledge ID :110 , query:csd , cleaned_response:I'm happy to help you with your question, but I need a bit more clarity. What does "csd" stand for in the context of Loyalist College's programs? Is it an abbreviation related to one of their courses or programs (e.g., Computer Systems Developer, Cyber Security, etc.)? Could you please provide more details or context?
+2024-11-27 10:56:49,886 [INFO] Cache saved to file successfully.
+2024-11-27 10:56:49,930 [INFO] Database db_1911 connection successful!
+2024-11-27 10:57:40,377 [INFO] Time taken to execute get embedding: 2.0962421894073486 seconds
+2024-11-27 10:57:42,566 [INFO] Returning cached result for a similar query: ('106', 'hello how are you')
+2024-11-27 10:57:42,566 [INFO] Returning cached result
+2024-11-27 10:58:47,106 [INFO] Time taken to execute get embedding: 2.114030361175537 seconds
+2024-11-27 10:58:49,263 [INFO] Returning cached result for a similar query: ('106', 'hello how are you')
+2024-11-27 10:58:49,263 [INFO] Returning cached result
+2024-11-27 11:00:48,576 [INFO] Time taken to execute get embedding: 2.111180305480957 seconds
+2024-11-27 11:00:50,745 [INFO] Returning cached result for a similar query: ('106', 'hello how are you')
+2024-11-27 11:00:50,745 [INFO] Returning cached result
+2024-11-27 11:02:14,075 [INFO] Time taken to execute get embedding: 2.11552095413208 seconds
+2024-11-27 11:02:16,240 [INFO] Returning cached result for a similar query: ('106', 'hello how are you')
+2024-11-27 11:02:16,240 [INFO] Returning cached result
+2024-11-27 11:14:04,730 [INFO] Time taken to execute get embedding: 3.1934099197387695 seconds
+2024-11-27 11:14:06,867 [INFO] Returning cached result for a similar query: ('106', 'hello how are you')
+2024-11-27 11:14:06,867 [INFO] Returning cached result
+2024-11-27 11:14:18,561 [INFO] Removed cached query due to negative feedback: ('106', 'hello how are you')
+2024-11-27 11:14:20,678 [INFO] Time taken to execute get embedding: 2.1095333099365234 seconds
+2024-11-27 11:14:31,099 [INFO] Cleaned response: Hello! Welcome to Loyalist College. How can I assist you today?
+2024-11-27 11:14:31,100 [INFO] Time taken to get the response: 8.265103816986084 seconds
+2024-11-27 11:14:31,100 [INFO] Storing query in cache. Knowledge ID :88 , query:hello , cleaned_response:Hello! Welcome to Loyalist College. How can I assist you today?
+2024-11-27 11:14:31,103 [INFO] Cache saved to file successfully.
+2024-11-27 11:14:31,152 [INFO] Database db_1911 connection successful!
+2024-11-27 11:21:21,817 [INFO] Time taken to execute get embedding: 2.934622287750244 seconds
+2024-11-27 11:21:23,968 [INFO] Returning cached result for a similar query: ('88', 'hello')
+2024-11-27 11:21:23,969 [INFO] Returning cached result
+2024-11-27 11:21:35,630 [INFO] Removed cached query due to negative feedback: ('88', 'hello')
+2024-11-27 11:21:37,765 [INFO] Time taken to execute get embedding: 2.1232779026031494 seconds
+2024-11-27 11:21:48,023 [INFO] Cleaned response: Hello! Welcome to Loyalist College in Toronto, under TBC. How can I assist you today? Are you a visitor looking for directions or have any questions about our programs?
+2024-11-27 11:21:48,024 [INFO] Time taken to get the response: 8.103485345840454 seconds
+2024-11-27 11:21:48,025 [INFO] Storing query in cache. Knowledge ID :88 , query:hello , cleaned_response:Hello! Welcome to Loyalist College in Toronto, under TBC. How can I assist you today? Are you a visitor looking for directions or have any questions about our programs?
+2024-11-27 11:21:48,028 [INFO] Cache saved to file successfully.
+2024-11-27 11:21:48,076 [INFO] Database db_1911 connection successful!
+2024-11-27 11:21:57,286 [INFO] Removed cached query due to negative feedback: ('88', 'hello')
+2024-11-27 11:21:59,417 [INFO] Time taken to execute get embedding: 2.1130588054656982 seconds
+2024-11-27 11:22:06,679 [INFO] Cleaned response: Hello! Welcome to Loyalist College. How can I assist you today? Are you a visitor, student, or just exploring our website?
+2024-11-27 11:22:06,680 [INFO] Time taken to get the response: 5.11279559135437 seconds
+2024-11-27 11:22:06,681 [INFO] Storing query in cache. Knowledge ID :88 , query:hello , cleaned_response:Hello! Welcome to Loyalist College. How can I assist you today? Are you a visitor, student, or just exploring our website?
+2024-11-27 11:22:06,685 [INFO] Cache saved to file successfully.
+2024-11-27 11:22:06,845 [INFO] Database db_1911 connection successful!
+2024-11-27 11:25:38,539 [INFO] Removed cached query due to negative feedback: ('88', 'hello')
+2024-11-27 11:25:40,666 [INFO] Time taken to execute get embedding: 2.1155872344970703 seconds
+2024-11-27 11:25:47,778 [INFO] Cleaned response: Hello! Welcome to Loyalist College's website. How can I assist you today?
+2024-11-27 11:25:47,778 [INFO] Time taken to get the response: 4.951692819595337 seconds
+2024-11-27 11:25:47,778 [INFO] Storing query in cache. Knowledge ID :88 , query:hello , cleaned_response:Hello! Welcome to Loyalist College's website. How can I assist you today?
+2024-11-27 11:25:47,783 [INFO] Cache saved to file successfully.
+2024-11-27 11:25:47,835 [INFO] Database db_1911 connection successful!
+2024-11-27 11:37:05,583 [INFO] Time taken to execute get embedding: 2.9237940311431885 seconds
+2024-11-27 11:37:16,523 [INFO] Cleaned response: It seems like you're trying to reference some specific documents related to colleges in Canada, but the context is incomplete. Could you please provide more details or clarify which college's documents you're referring to (e.g., Loyalist College, Seneca College, etc.)? I'd be happy to try and assist you once I have a better understanding of what you're looking for.
+2024-11-27 11:37:16,524 [INFO] Time taken to get the response: 8.801961421966553 seconds
+2024-11-27 11:37:16,526 [INFO] Storing query in cache. Knowledge ID :124 , query:jr , cleaned_response:It seems like you're trying to reference some specific documents related to colleges in Canada, but the context is incomplete. Could you please provide more details or clarify which college's documents you're referring to (e.g., Loyalist College, Seneca College, etc.)? I'd be happy to try and assist you once I have a better understanding of what you're looking for.
+2024-11-27 11:37:16,526 [INFO] Cache saved to file successfully.
+2024-11-27 11:37:16,578 [INFO] Database db_1911 connection successful!
+2024-11-27 11:37:22,225 [INFO] Removed cached query due to negative feedback: ('124', 'jr')
+2024-11-27 11:37:24,354 [INFO] Time taken to execute get embedding: 2.1214139461517334 seconds
+2024-11-27 11:37:33,275 [INFO] Cleaned response: I'd be happy to help you with your question. However, I need more context or clarification. It seems like the text is a sample document listing different institutions (Loyalist, Mohawk, Niagara, Northern, St. Clair, St. Lawrence, Sault, and Seneca) along with their respective names, signatures, and titles.
+
+Could you please provide more information about what you're trying to ask or what you'd like to know regarding these institutions? Are you looking for information on a specific program, course, or something else?
+2024-11-27 11:37:33,276 [INFO] Time taken to get the response: 6.745095252990723 seconds
+2024-11-27 11:37:33,276 [INFO] Storing query in cache. Knowledge ID :124 , query:jr , cleaned_response:I'd be happy to help you with your question. However, I need more context or clarification. It seems like the text is a sample document listing different institutions (Loyalist, Mohawk, Niagara, Northern, St. Clair, St. Lawrence, Sault, and Seneca) along with their respective names, signatures, and titles.
+
+Could you please provide more information about what you're trying to ask or what you'd like to know regarding these institutions? Are you looking for information on a specific program, course, or something else?
+2024-11-27 11:37:33,282 [INFO] Cache saved to file successfully.
+2024-11-27 11:37:33,448 [INFO] Database db_1911 connection successful!
+2024-11-27 11:50:15,509 [INFO] Time taken to execute get embedding: 2.925065517425537 seconds
+2024-11-27 11:50:17,626 [INFO] Returning cached result for a similar query: ('88', 'hello')
+2024-11-27 11:50:17,626 [INFO] Returning cached result
+2024-11-27 11:50:23,495 [INFO] Removed cached query due to negative feedback: ('88', 'hello')
+2024-11-27 11:50:25,632 [INFO] Time taken to execute get embedding: 2.121842384338379 seconds
+2024-11-27 11:50:35,515 [INFO] Cleaned response: Hello! Welcome to Loyalist College. How can I assist you today? Are you a visitor, student, or employee looking for something specific?
+2024-11-27 11:50:35,515 [INFO] Time taken to get the response: 7.721462726593018 seconds
+2024-11-27 11:50:35,515 [INFO] Storing query in cache. Knowledge ID :88 , query:Hello , cleaned_response:Hello! Welcome to Loyalist College. How can I assist you today? Are you a visitor, student, or employee looking for something specific?
+2024-11-27 11:50:35,515 [INFO] Cache saved to file successfully.
+2024-11-27 11:50:35,571 [INFO] Database db_1911 connection successful!
+2024-11-27 11:51:01,080 [INFO] Time taken to execute get embedding: 2.0930638313293457 seconds
+2024-11-27 11:51:03,233 [INFO] Returning cached result for a similar query: ('88', 'Hello')
+2024-11-27 11:51:03,233 [INFO] Returning cached result
+2024-11-27 11:51:07,242 [INFO] Removed cached query due to negative feedback: ('88', 'Hello')
+2024-11-27 11:51:09,358 [INFO] Time taken to execute get embedding: 2.104918956756592 seconds
+2024-11-27 11:51:16,354 [INFO] Cleaned response: Hello! Welcome to Loyalist College's website. How can I assist you today?
+2024-11-27 11:51:16,354 [INFO] Time taken to get the response: 4.833799600601196 seconds
+2024-11-27 11:51:16,354 [INFO] Storing query in cache. Knowledge ID :88 , query:hello , cleaned_response:Hello! Welcome to Loyalist College's website. How can I assist you today?
+2024-11-27 11:51:16,354 [INFO] Cache saved to file successfully.
+2024-11-27 11:51:16,412 [INFO] Database db_1911 connection successful!
+2024-11-27 11:51:36,572 [INFO] Removed cached query due to negative feedback: ('88', 'hello')
+2024-11-27 11:51:38,699 [INFO] Time taken to execute get embedding: 2.1191365718841553 seconds
+2024-11-27 11:51:46,069 [INFO] Cleaned response: Hello! Welcome to Loyalist College in Toronto. How can I assist you today? Are you a visitor, student, or looking for general information about the college?
+2024-11-27 11:51:46,070 [INFO] Time taken to get the response: 5.2081215381622314 seconds
+2024-11-27 11:51:46,071 [INFO] Storing query in cache. Knowledge ID :88 , query:hello , cleaned_response:Hello! Welcome to Loyalist College in Toronto. How can I assist you today? Are you a visitor, student, or looking for general information about the college?
+2024-11-27 11:51:46,072 [INFO] Cache saved to file successfully.
+2024-11-27 11:51:46,242 [INFO] Database db_1911 connection successful!
+2024-11-28 11:38:14,878 [INFO] Database db_1911 connection successful!
+2024-11-28 11:38:14,931 [INFO] Database initialized or updated successfully!
+2024-11-28 11:38:14,948 [INFO] Cache loaded from file successfully.
+2024-11-28 11:38:57,109 [INFO] Time taken to execute get embedding: 4.816209316253662 seconds
+2024-11-28 11:39:10,149 [INFO] Cleaned response: The preferred method for one-on-one electronic communication outside of class is the Quickmail tool. Would you like to know more about how to use Quickmail or any other LMS feature?
+2024-11-28 11:39:10,150 [INFO] Time taken to get the response: 10.841075420379639 seconds
+2024-11-28 11:39:10,151 [INFO] Storing query in cache. Knowledge ID :131 , query:email for e-learning , cleaned_response:The preferred method for one-on-one electronic communication outside of class is the Quickmail tool. Would you like to know more about how to use Quickmail or any other LMS feature?
+2024-11-28 11:39:10,153 [INFO] Cache saved to file successfully.
+2024-11-28 11:39:10,249 [INFO] Database db_1911 connection successful!
+2024-11-28 11:42:04,407 [INFO] Removed cached query due to negative feedback: ('131', 'email for e-learning')
+2024-11-28 11:42:06,516 [INFO] Time taken to execute get embedding: 2.0957484245300293 seconds
+2024-11-28 11:42:14,944 [INFO] Cleaned response: According to Appendix A - Recommended Uses of the LMS, the Quickmail tool is strongly recommended as the primary method for one-on-one electronic communication outside of class. This would be more efficient than using the Email tool, especially for sending common messages to the whole class.
+
+Would you like to know more about how to use the Quickmail tool or the Email tool in the LMS?
+2024-11-28 11:42:14,944 [INFO] Time taken to get the response: 6.275543451309204 seconds
+2024-11-28 11:42:14,944 [INFO] Storing query in cache. Knowledge ID :131 , query:email for e-learning , cleaned_response:According to Appendix A - Recommended Uses of the LMS, the Quickmail tool is strongly recommended as the primary method for one-on-one electronic communication outside of class. This would be more efficient than using the Email tool, especially for sending common messages to the whole class.
+
+Would you like to know more about how to use the Quickmail tool or the Email tool in the LMS?
+2024-11-28 11:42:14,947 [INFO] Cache saved to file successfully.
+2024-11-28 11:42:14,997 [INFO] Database db_1911 connection successful!
+2024-11-29 09:26:02,891 [INFO] Database db_1911 connection successful!
+2024-11-29 09:26:02,932 [INFO] Database initialized or updated successfully!
+2024-11-29 09:26:02,956 [INFO] Cache loaded from file successfully.
+2024-11-29 10:14:50,697 [INFO] Time taken to execute get embedding: 6.349358081817627 seconds
+2024-11-29 10:15:05,353 [INFO] Cleaned response: I'm happy to help you with any questions or concerns you have as a student at Loyalist College! However, I need a bit more information from you. Could you please clarify what "rvrds" means? Is it related to a specific course, program, or something else? 
+
+If you're unsure about the context, feel free to provide me with any questions you have, and I'll do my best to assist you based on the provided documents and information from Loyalist College.
+2024-11-29 10:15:05,355 [INFO] Time taken to get the response: 12.464502096176147 seconds
+2024-11-29 10:15:05,356 [INFO] Storing query in cache. Knowledge ID :84 , query:rvrds , cleaned_response:I'm happy to help you with any questions or concerns you have as a student at Loyalist College! However, I need a bit more information from you. Could you please clarify what "rvrds" means? Is it related to a specific course, program, or something else? 
+
+If you're unsure about the context, feel free to provide me with any questions you have, and I'll do my best to assist you based on the provided documents and information from Loyalist College.
+2024-11-29 10:15:05,357 [INFO] Cache saved to file successfully.
+2024-11-29 10:15:05,433 [INFO] Database db_1911 connection successful!
+2024-11-29 10:15:57,773 [INFO] Time taken to execute get embedding: 2.1938884258270264 seconds
+2024-11-29 10:16:07,045 [INFO] Cleaned response: It seems like you're interested in learning more about our Supply Chain Management - Enterprise Resource Planning (ERP) program. However, I'd like to clarify that the context provided earlier was for a Two-Year Post-Graduate Certificate in Supply Chain Management - Enterprise Resource Planning (ERP).
+
+Could you please provide more details or specify which aspect of the program you're interested in learning more about? For example, would you like to know more about the course curriculum, career prospects, or perhaps something else?
+
+If you have any specific questions related to the program, feel free to ask, and I'll do my best to assist you.
+2024-11-29 10:16:07,045 [INFO] Time taken to get the response: 7.142092943191528 seconds
+2024-11-29 10:16:07,045 [INFO] Storing query in cache. Knowledge ID :118 , query:erve , cleaned_response:It seems like you're interested in learning more about our Supply Chain Management - Enterprise Resource Planning (ERP) program. However, I'd like to clarify that the context provided earlier was for a Two-Year Post-Graduate Certificate in Supply Chain Management - Enterprise Resource Planning (ERP).
+
+Could you please provide more details or specify which aspect of the program you're interested in learning more about? For example, would you like to know more about the course curriculum, career prospects, or perhaps something else?
+
+If you have any specific questions related to the program, feel free to ask, and I'll do my best to assist you.
+2024-11-29 10:16:07,050 [INFO] Cache saved to file successfully.
+2024-11-29 10:16:07,104 [INFO] Database db_1911 connection successful!
+2024-11-29 10:30:26,250 [INFO] Cache saved to file successfully.
+2024-11-30 11:44:39,435 [INFO] Database db_1911 connection successful!
+2024-11-30 11:44:39,499 [INFO] Database initialized or updated successfully!
+2024-11-30 11:44:39,515 [INFO] Cache loaded from file successfully.
+2024-11-30 11:46:41,201 [INFO] Time taken to execute get embedding: 6.251678943634033 seconds
+2024-11-30 11:47:07,508 [INFO] Time taken to get the response: 24.129580974578857 seconds
+2024-11-30 11:47:07,549 [INFO] Cache saved to file successfully.
+2024-11-30 11:47:07,604 [INFO] Database db_1911 connection successful!
+2024-11-30 11:47:15,827 [INFO] Removed cached query due to negative feedback: ('127', 'greojher')
+2024-11-30 11:47:17,942 [INFO] Time taken to execute get embedding: 2.114396572113037 seconds
+2024-11-30 11:47:27,990 [INFO] Cleaned response: CONTEXT:
+
+I apologize for not providing a helpful response earlier. It seems like you didn't specify a particular topic or question you'd like assistance with.
+
+To clarify, could you please rephrase your question or provide more details about what you're looking for? Are you seeking information on Loyalist College's graduation process, course offerings, admission requirements, student services, or something else?
+
+Please feel free to ask a specific question, and I'll do my best to provide an accurate and relevant response based on the official documents from Loyalist College.
+2024-11-30 11:47:27,991 [INFO] Time taken to get the response: 7.834527015686035 seconds
+2024-11-30 11:47:28,053 [INFO] Cache saved to file successfully.
+2024-11-30 11:47:28,093 [INFO] Database db_1911 connection successful!
+2024-11-30 11:47:28,103 [INFO] Processed feedback. Updated response: CONTEXT:
+
+I apologize for not providing a helpful response earlier. It seems like you didn't specify a particular topic or question you'd like assistance with.
+
+To clarify, could you please rephrase your question or provide more details about what you're looking for? Are you seeking information on Loyalist College's graduation process, course offerings, admission requirements, student services, or something else?
+
+Please feel free to ask a specific question, and I'll do my best to provide an accurate and relevant response based on the official documents from Loyalist College.
+2024-11-30 11:49:11,660 [INFO] Cache saved to file successfully.
+2024-11-30 11:49:26,004 [INFO] Database db_1911 connection successful!
+2024-11-30 11:49:26,020 [INFO] Database initialized or updated successfully!
+2024-11-30 11:49:26,044 [INFO] Cache loaded from file successfully.
+2024-11-30 11:52:27,781 [INFO] Time taken to execute get embedding: 2.9315457344055176 seconds
+2024-11-30 11:52:38,139 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic. It seems like you're asking for general advice or clarification on a program or course. Can you please provide more details about what you'd like to know (e.g., which program, course, or aspect of the CDSDV are you interested in)?
+2024-11-30 11:52:38,140 [INFO] Time taken to get the response: 8.231853246688843 seconds
+2024-11-30 11:52:38,141 [INFO] Storing query in cache. Knowledge ID :113 , query:cdsv , cleaned_response:Sorry, I couldn't find specific information on that topic. It seems like you're asking for general advice or clarification on a program or course. Can you please provide more details about what you'd like to know (e.g., which program, course, or aspect of the CDSDV are you interested in)?
+2024-11-30 11:52:38,143 [INFO] Cache saved to file successfully.
+2024-11-30 11:52:38,192 [INFO] Database db_1911 connection successful!
+2024-11-30 11:52:48,964 [INFO] Removed cached query due to negative feedback: ('113', 'cdsv')
+2024-11-30 11:52:51,093 [INFO] Time taken to execute get embedding: 2.1286301612854004 seconds
+2024-11-30 11:53:00,056 [INFO] Cleaned response: The CDSDV program is a diploma program offered by Loyalist College in Toronto. However, I couldn't find specific information on the course or program details directly related to your question.
+
+For further details, I recommend reaching out to the academics or student success department at Loyalist College for more information about the CDSDV program and any relevant policies or procedures.
+2024-11-30 11:53:00,056 [INFO] Time taken to get the response: 6.841893196105957 seconds
+2024-11-30 11:53:00,056 [INFO] Storing query in cache. Knowledge ID :131 , query:
+            The following response was not helpful: "Sorry, I couldn't find specific information on that topic. It seems like you're asking for general advice or clarification on a program or course. Can you please provide more details about what you'd like to know (e.g., which program, course, or aspect of the CDSDV are you interested in)?".
+            Please provide a better and more specific answer to the user's query based on the provided context.
+
+            Query: cdsv
+             , cleaned_response:The CDSDV program is a diploma program offered by Loyalist College in Toronto. However, I couldn't find specific information on the course or program details directly related to your question.
+
+For further details, I recommend reaching out to the academics or student success department at Loyalist College for more information about the CDSDV program and any relevant policies or procedures.
+2024-11-30 11:53:00,061 [INFO] Cache saved to file successfully.
+2024-11-30 11:53:00,108 [INFO] Database db_1911 connection successful!
+2024-11-30 11:53:00,108 [INFO] Processed feedback. Updated response: The CDSDV program is a diploma program offered by Loyalist College in Toronto. However, I couldn't find specific information on the course or program details directly related to your question.
+
+For further details, I recommend reaching out to the academics or student success department at Loyalist College for more information about the CDSDV program and any relevant policies or procedures.
+2024-11-30 11:54:08,033 [INFO] Time taken to execute get embedding: 2.1375555992126465 seconds
+2024-11-30 11:54:17,890 [INFO] Cleaned response: According to the Lost and Found Policy document, if you have lost any personal items on campus, please report it immediately to the security desk at the front desk of the College. You will be required to present your student ID card to claim your lost items.
+
+To proceed, I recommend visiting the security desk with your student ID card and reporting the lost item. They may also ask for additional information to verify ownership. Please note that the security team will not search for lost items proactively, so it's essential to report any found items promptly as well.
+
+If you need further assistance or have questions about the process, feel free to ask!
+2024-11-30 11:54:17,891 [INFO] Time taken to get the response: 7.684783220291138 seconds
+2024-11-30 11:54:17,891 [INFO] Storing query in cache. Knowledge ID :76 , query:how cann i get my lost property , cleaned_response:According to the Lost and Found Policy document, if you have lost any personal items on campus, please report it immediately to the security desk at the front desk of the College. You will be required to present your student ID card to claim your lost items.
+
+To proceed, I recommend visiting the security desk with your student ID card and reporting the lost item. They may also ask for additional information to verify ownership. Please note that the security team will not search for lost items proactively, so it's essential to report any found items promptly as well.
+
+If you need further assistance or have questions about the process, feel free to ask!
+2024-11-30 11:54:17,894 [INFO] Cache saved to file successfully.
+2024-11-30 11:54:17,940 [INFO] Database db_1911 connection successful!
+2024-11-30 11:55:13,461 [INFO] Removed cached query due to negative feedback: ('76', 'how cann i get my lost property')
+2024-11-30 11:55:15,587 [INFO] Time taken to execute get embedding: 2.1262948513031006 seconds
+2024-11-30 11:55:25,504 [INFO] Cleaned response: I understand that you're looking for information on what to do with your lost property. 
+
+According to our Lost and Found Policy, if you have found any unattended items on campus, please report it to the security desk or front desk as soon as possible. We highly recommend that you do not touch or move the item until the security desk or front desk arrives.
+
+To claim a lost item, you must present your student ID card to the security desk at the front desk. You must prove that the item belongs to you by providing additional information if necessary.
+
+Let me clarify: What specific type of property are you trying to retrieve?
+2024-11-30 11:55:25,505 [INFO] Time taken to get the response: 7.747817516326904 seconds
+2024-11-30 11:55:25,505 [INFO] Storing query in cache. Knowledge ID :76 , query:
+            The following response was not helpful: "According to the Lost and Found Policy document, if you have lost any personal items on campus, please report it immediately to the security desk at the front desk of the College. You will be required to present your student ID card to claim your lost items.
+
+To proceed, I recommend visiting the security desk with your student ID card and reporting the lost item. They may also ask for additional information to verify ownership. Please note that the security team will not search for lost items proactively, so it's essential to report any found items promptly as well.
+
+If you need further assistance or have questions about the process, feel free to ask!".
+            Please provide a better and more specific answer to the user's query based on the provided context.
+
+            Query: how cann i get my lost property
+             , cleaned_response:I understand that you're looking for information on what to do with your lost property. 
+
+According to our Lost and Found Policy, if you have found any unattended items on campus, please report it to the security desk or front desk as soon as possible. We highly recommend that you do not touch or move the item until the security desk or front desk arrives.
+
+To claim a lost item, you must present your student ID card to the security desk at the front desk. You must prove that the item belongs to you by providing additional information if necessary.
+
+Let me clarify: What specific type of property are you trying to retrieve?
+2024-11-30 11:55:25,505 [INFO] Cache saved to file successfully.
+2024-11-30 11:55:25,555 [INFO] Database db_1911 connection successful!
+2024-11-30 11:55:25,562 [INFO] Processed feedback. Updated response: I understand that you're looking for information on what to do with your lost property. 
+
+According to our Lost and Found Policy, if you have found any unattended items on campus, please report it to the security desk or front desk as soon as possible. We highly recommend that you do not touch or move the item until the security desk or front desk arrives.
+
+To claim a lost item, you must present your student ID card to the security desk at the front desk. You must prove that the item belongs to you by providing additional information if necessary.
+
+Let me clarify: What specific type of property are you trying to retrieve?
+2024-11-30 11:57:30,708 [INFO] Time taken to execute get embedding: 2.1117568016052246 seconds
+2024-11-30 11:57:32,866 [INFO] Returning cached result for a similar query: ('76', 'i lost my thing how can i find it')
+2024-11-30 11:57:32,866 [INFO] Returning cached result
+2024-11-30 11:57:41,695 [INFO] Removed cached query due to negative feedback: ('76', 'i lost my thing how can i find it')
+2024-11-30 11:57:43,808 [INFO] Time taken to execute get embedding: 2.1131224632263184 seconds
+2024-11-30 11:57:45,941 [INFO] Returning cached result for a similar query: ('76', '\n            The following response was not helpful: "According to the Lost and Found Policy document, if you have lost any personal items on campus, please report it immediately to the security desk at the front desk of the College. You will be required to present your student ID card to claim your lost items.\n\nTo proceed, I recommend visiting the security desk with your student ID card and reporting the lost item. They may also ask for additional information to verify ownership. Please note that the security team will not search for lost items proactively, so it\'s essential to report any found items promptly as well.\n\nIf you need further assistance or have questions about the process, feel free to ask!".\n            Please provide a better and more specific answer to the user\'s query based on the provided context.\n\n            Query: how cann i get my lost property\n            ')
+2024-11-30 11:57:45,941 [INFO] Returning cached result
+2024-11-30 11:57:45,941 [INFO] Processed feedback. Updated response: I understand that you're looking for information on what to do with your lost property. 
+
+According to our Lost and Found Policy, if you have found any unattended items on campus, please report it to the security desk or front desk as soon as possible. We highly recommend that you do not touch or move the item until the security desk or front desk arrives.
+
+To claim a lost item, you must present your student ID card to the security desk at the front desk. You must prove that the item belongs to you by providing additional information if necessary.
+
+Let me clarify: What specific type of property are you trying to retrieve?
+2024-11-30 11:59:44,597 [INFO] Time taken to execute get embedding: 2.1001086235046387 seconds
+2024-11-30 11:59:46,726 [INFO] Returning cached result for a similar query: ('88', 'hello')
+2024-11-30 11:59:46,726 [INFO] Returning cached result
+2024-11-30 11:59:51,714 [INFO] Removed cached query due to negative feedback: ('88', 'hello')
+2024-11-30 11:59:53,841 [INFO] Time taken to execute get embedding: 2.1269021034240723 seconds
+2024-11-30 12:00:02,696 [INFO] Cleaned response: Hello! Welcome to our Academic Calendar section of Loyalist College in Toronto. How can I assist you today? Are you looking for specific information, such as course details or student services, or perhaps clarification on attendance policies? I'm here to help with any questions or concerns you may have regarding your academic journey at Loyalist College.
+2024-11-30 12:00:02,696 [INFO] Time taken to get the response: 6.6906139850616455 seconds
+2024-11-30 12:00:02,696 [INFO] Storing query in cache. Knowledge ID :123 , query:
+            The following response was not helpful: "Hello! Welcome to Loyalist College in Toronto. How can I assist you today? Are you a visitor, student, or looking for general information about the college?".
+            Please provide a better and more specific answer to the user's query based on the provided context.
+
+            Query: hello
+             , cleaned_response:Hello! Welcome to our Academic Calendar section of Loyalist College in Toronto. How can I assist you today? Are you looking for specific information, such as course details or student services, or perhaps clarification on attendance policies? I'm here to help with any questions or concerns you may have regarding your academic journey at Loyalist College.
+2024-11-30 12:00:02,700 [INFO] Cache saved to file successfully.
+2024-11-30 12:00:02,752 [INFO] Database db_1911 connection successful!
+2024-11-30 12:00:02,765 [INFO] Processed feedback. Updated response: Hello! Welcome to our Academic Calendar section of Loyalist College in Toronto. How can I assist you today? Are you looking for specific information, such as course details or student services, or perhaps clarification on attendance policies? I'm here to help with any questions or concerns you may have regarding your academic journey at Loyalist College.
+2024-11-30 12:00:19,557 [INFO] Time taken to execute get embedding: 2.1258764266967773 seconds
+2024-11-30 12:00:21,698 [INFO] Returning cached result for a similar query: ('123', '\n            The following response was not helpful: "Hello! Welcome to Loyalist College in Toronto. How can I assist you today? Are you a visitor, student, or looking for general information about the college?".\n            Please provide a better and more specific answer to the user\'s query based on the provided context.\n\n            Query: hello\n            ')
+2024-11-30 12:00:21,698 [INFO] Returning cached result
+2024-11-30 12:00:21,702 [INFO] Processed feedback. Updated response: Hello! Welcome to our Academic Calendar section of Loyalist College in Toronto. How can I assist you today? Are you looking for specific information, such as course details or student services, or perhaps clarification on attendance policies? I'm here to help with any questions or concerns you may have regarding your academic journey at Loyalist College.
+2024-11-30 12:00:50,368 [INFO] Time taken to execute get embedding: 2.121657371520996 seconds
+2024-11-30 12:00:52,512 [INFO] Returning cached result for a similar query: ('123', '\n            The following response was not helpful: "Hello! Welcome to Loyalist College in Toronto. How can I assist you today? Are you a visitor, student, or looking for general information about the college?".\n            Please provide a better and more specific answer to the user\'s query based on the provided context.\n\n            Query: hello\n            ')
+2024-11-30 12:00:52,512 [INFO] Returning cached result
+2024-11-30 12:00:52,512 [INFO] Processed feedback. Updated response: Hello! Welcome to our Academic Calendar section of Loyalist College in Toronto. How can I assist you today? Are you looking for specific information, such as course details or student services, or perhaps clarification on attendance policies? I'm here to help with any questions or concerns you may have regarding your academic journey at Loyalist College.
+2024-11-30 12:34:46,297 [INFO] Time taken to execute get embedding: 2.048173666000366 seconds
+2024-11-30 12:34:48,381 [INFO] Returning cached result for a similar query: ('123', '\n            The following response was not helpful: "Hello! Welcome to Loyalist College in Toronto. How can I assist you today? Are you a visitor, student, or looking for general information about the college?".\n            Please provide a better and more specific answer to the user\'s query based on the provided context.\n\n            Query: hello\n            ')
+2024-11-30 12:34:48,382 [INFO] Returning cached result
+2024-11-30 12:34:48,382 [INFO] Processed feedback. Updated response: Hello! Welcome to our Academic Calendar section of Loyalist College in Toronto. How can I assist you today? Are you looking for specific information, such as course details or student services, or perhaps clarification on attendance policies? I'm here to help with any questions or concerns you may have regarding your academic journey at Loyalist College.
+2024-12-03 11:39:06,782 [INFO] Database db_1911 connection successful!
+2024-12-03 11:39:06,791 [INFO] Database initialized or updated successfully!
+2024-12-03 11:39:06,793 [INFO] Cache loaded from file successfully.
+2024-12-03 11:40:37,668 [INFO] File saved successfully: ../admin/assets/pdf/LCIT Mailing Address and SIN Instructions.pdf
+2024-12-03 11:40:46,190 [INFO] Data embedded into database
+2024-12-03 11:40:48,282 [INFO] Time taken to execute get embedding: 2.091275691986084 seconds
+2024-12-03 11:40:59,130 [INFO] Cleaned response: Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-12-03 11:40:59,130 [INFO] Time taken to get the response: 8.71155595779419 seconds
+2024-12-03 11:40:59,130 [INFO] Storing query in cache. Knowledge ID :77 , query:can i have admin rights?  , cleaned_response:Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success.
+2024-12-03 11:40:59,130 [INFO] Cache saved to file successfully.
+2024-12-03 11:40:59,164 [INFO] Database db_1911 connection successful!
+2024-12-03 11:40:59,169 [INFO] Updated cache for query: can i have admin rights?  with new response
+2024-12-03 11:42:31,144 [INFO] Time taken to execute get embedding: 2.090115785598755 seconds
+2024-12-03 11:42:39,564 [INFO] Cleaned response: To update your mailing address in Banner, follow these steps:
+
+1. Log in to the myLoyalist portal and select Students on the red menu bar then My Information on the blue menu bar.
+2. Click on the Phone/Address icon.
+3. Click Personal Information.
+4. Update Address(es) and Phone(s). Make sure to update your mailing address.
+
+That's it! If you have any issues, please contact servicedesk@loyalistcollege.com.
+2024-12-03 11:42:39,565 [INFO] Time taken to get the response: 6.318573951721191 seconds
+2024-12-03 11:42:39,565 [INFO] Storing query in cache. Knowledge ID :136 , query:how to set the mailing address , cleaned_response:To update your mailing address in Banner, follow these steps:
+
+1. Log in to the myLoyalist portal and select Students on the red menu bar then My Information on the blue menu bar.
+2. Click on the Phone/Address icon.
+3. Click Personal Information.
+4. Update Address(es) and Phone(s). Make sure to update your mailing address.
+
+That's it! If you have any issues, please contact servicedesk@loyalistcollege.com.
+2024-12-03 11:42:39,567 [INFO] Cache saved to file successfully.
+2024-12-03 11:42:39,603 [INFO] Database db_1911 connection successful!
+2024-12-03 11:42:44,900 [INFO] Removed cached query related to knowledge_id: 136
+2024-12-03 11:42:57,641 [INFO] Time taken to execute get embedding: 2.0515735149383545 seconds
+2024-12-03 11:43:06,763 [INFO] Cleaned response: CONTEXT: Update your Mailing Address & Social Insurance Number (SIN)
+
+To update your mailing address, you can follow these steps:
+
+1. Go to myApps and click on "Student Account" or "myFees".
+2. Click on "Update Your Information" or a similar section.
+3. Select "Mailing Address" as the field to be updated.
+4. Enter your new mailing address.
+5. Save the changes.
+
+Additionally, you may also need to update your social insurance number (SIN) if it has changed.
+
+For more information on updating your SIN, please refer to Section C of the provided document or contact International Accounts at internationalaccounts@loyalistcollege.com.
+2024-12-03 11:43:06,766 [INFO] Time taken to get the response: 7.058248043060303 seconds
+2024-12-03 11:43:06,766 [INFO] Storing query in cache. Knowledge ID :116 , query:how to set the mailing address , cleaned_response:CONTEXT: Update your Mailing Address & Social Insurance Number (SIN)
+
+To update your mailing address, you can follow these steps:
+
+1. Go to myApps and click on "Student Account" or "myFees".
+2. Click on "Update Your Information" or a similar section.
+3. Select "Mailing Address" as the field to be updated.
+4. Enter your new mailing address.
+5. Save the changes.
+
+Additionally, you may also need to update your social insurance number (SIN) if it has changed.
+
+For more information on updating your SIN, please refer to Section C of the provided document or contact International Accounts at internationalaccounts@loyalistcollege.com.
+2024-12-03 11:43:06,768 [INFO] Cache saved to file successfully.
+2024-12-03 11:43:06,807 [INFO] Database db_1911 connection successful!
+2024-12-03 11:55:26,521 [INFO] File saved successfully: ../admin/assets/pdf/LCIT Mailing Address and SIN Instructions.pdf
+2024-12-03 11:55:33,912 [INFO] Data embedded into database
+2024-12-03 11:55:35,993 [INFO] Time taken to execute get embedding: 2.0803709030151367 seconds
+2024-12-03 11:55:46,567 [INFO] Cleaned response: You want to know how to check your GPA, but you're unsure where to start or what information is available in the context provided.
+
+To clarify, would you like me to guide you on how to navigate through the myLoyalist portal and find your transcript or GPA details directly within it? Or perhaps you'd like me to ask more questions to better understand what specific information you're looking for?
+2024-12-03 11:55:46,567 [INFO] Time taken to get the response: 8.466903448104858 seconds
+2024-12-03 11:55:46,567 [INFO] Storing query in cache. Knowledge ID :93 , query:how to check the my gpa?  , cleaned_response:You want to know how to check your GPA, but you're unsure where to start or what information is available in the context provided.
+
+To clarify, would you like me to guide you on how to navigate through the myLoyalist portal and find your transcript or GPA details directly within it? Or perhaps you'd like me to ask more questions to better understand what specific information you're looking for?
+2024-12-03 11:55:46,570 [INFO] Cache saved to file successfully.
+2024-12-03 11:55:46,602 [INFO] Database db_1911 connection successful!
+2024-12-03 11:55:46,602 [INFO] Updated cache for query: how to check the my gpa?  with new response
+2024-12-03 11:58:53,637 [INFO] Cache saved to file successfully.
+2024-12-03 11:59:03,597 [INFO] Database db_1911 connection successful!
+2024-12-03 11:59:03,619 [INFO] Database initialized or updated successfully!
+2024-12-03 11:59:03,620 [INFO] Cache loaded from file successfully.
+2024-12-03 11:59:47,704 [INFO] Time taken to execute get embedding: 2.105257034301758 seconds
+2024-12-03 11:59:49,843 [INFO] Returning cached result for a similar query: ('116', 'how to set the mailing address')
+2024-12-03 11:59:49,843 [INFO] Returning cached result
+2024-12-03 12:37:04,077 [INFO] Cache saved to file successfully.
+2024-12-03 12:49:25,614 [INFO] Database db_1911 connection successful!
+2024-12-03 12:49:25,629 [INFO] Database initialized or updated successfully!
+2024-12-03 12:49:25,634 [INFO] Cache loaded from file successfully.
+2024-12-03 12:50:50,919 [INFO] Time taken to execute get embedding: 2.886350154876709 seconds
+2024-12-03 12:50:52,978 [INFO] Returning cached result for a similar query: ('116', 'how to set the mailing address')
+2024-12-03 12:50:52,978 [INFO] Returning cached result
+2024-12-03 12:51:27,353 [INFO] Cache saved to file successfully.
+2024-12-03 12:51:31,669 [INFO] Database db_1911 connection successful!
+2024-12-03 12:51:31,671 [INFO] Database initialized or updated successfully!
+2024-12-03 12:51:31,671 [INFO] Cache loaded from file successfully.
+2024-12-03 12:51:37,601 [INFO] Removed cached query due to negative feedback: ('116', 'how to set the mailing address')
+2024-12-03 12:51:39,664 [INFO] Time taken to execute get embedding: 2.056389808654785 seconds
+2024-12-03 12:51:49,936 [INFO] Cleaned response: Sorry, I couldn't find specific information on updating your mailing address. For further details, please contact academics or student success.
+2024-12-03 12:51:49,936 [INFO] Time taken to get the response: 8.180031538009644 seconds
+2024-12-03 12:51:49,936 [INFO] Storing query in cache. Knowledge ID :88 , query:
+            The following response was not helpful: "None".
+            Please provide a better and more specific answer to the user's query based on the provided context.
+
+            Query: how to set mailing address
+             , cleaned_response:Sorry, I couldn't find specific information on updating your mailing address. For further details, please contact academics or student success.
+2024-12-03 12:51:49,937 [INFO] Cache saved to file successfully.
+2024-12-03 12:51:49,968 [INFO] Database db_1911 connection successful!
+2024-12-03 12:51:49,968 [INFO] Processed feedback. Updated response: Sorry, I couldn't find specific information on updating your mailing address. For further details, please contact academics or student success.
+2024-12-03 12:51:52,031 [INFO] Time taken to execute get embedding: 2.055164337158203 seconds
+2024-12-03 12:51:54,077 [INFO] Returning cached result for a similar query: ('88', '\n            The following response was not helpful: "None".\n            Please provide a better and more specific answer to the user\'s query based on the provided context.\n\n            Query: how to set mailing address\n            ')
+2024-12-03 12:51:54,077 [INFO] Returning cached result
+2024-12-03 12:53:06,679 [INFO] File saved successfully: ../admin/assets/pdf/LCIT Mailing Address and SIN Instructions.pdf
+2024-12-03 12:53:13,185 [INFO] Data embedded into database
+2024-12-03 12:53:15,286 [INFO] Time taken to execute get embedding: 2.0990893840789795 seconds
+2024-12-03 12:53:24,029 [INFO] Cleaned response: According to your context, it seems that you're inquiring about checking your progress or grades at Loyalist College.
+
+To find your current percentage, I recommend logging into your myLoyalist portal account. You can do this by following the steps provided in the context:
+
+1. Click on the "myLoyalist" link in the top right corner of the website (https://www.loyalistcollege.com/).
+2. Log in to your myLoyalist portal account.
+3. Once you're logged in, navigate to your course or program page.
+4. Look for the grades or progress section.
+
+If you need help finding this information, feel free to ask!
+2024-12-03 12:53:24,029 [INFO] Time taken to get the response: 6.60123872756958 seconds
+2024-12-03 12:53:24,029 [INFO] Storing query in cache. Knowledge ID :104 , query:where i can check my percentage  , cleaned_response:According to your context, it seems that you're inquiring about checking your progress or grades at Loyalist College.
+
+To find your current percentage, I recommend logging into your myLoyalist portal account. You can do this by following the steps provided in the context:
+
+1. Click on the "myLoyalist" link in the top right corner of the website (https://www.loyalistcollege.com/).
+2. Log in to your myLoyalist portal account.
+3. Once you're logged in, navigate to your course or program page.
+4. Look for the grades or progress section.
+
+If you need help finding this information, feel free to ask!
+2024-12-03 12:53:24,031 [INFO] Cache saved to file successfully.
+2024-12-03 12:53:24,064 [INFO] Database db_1911 connection successful!
+2024-12-03 12:53:24,068 [INFO] Updated cache for query: where i can check my percentage  with new response
+2024-12-03 12:54:22,713 [INFO] Cache saved to file successfully.
+2024-12-03 12:54:42,118 [INFO] Database db_1911 connection successful!
+2024-12-03 12:54:42,118 [INFO] Database initialized or updated successfully!
+2024-12-03 12:54:42,130 [INFO] Cache loaded from file successfully.
+2024-12-03 12:54:59,739 [INFO] Time taken to execute get embedding: 2.03961443901062 seconds
+2024-12-03 12:55:01,815 [INFO] Returning cached result for a similar query: ('88', '\n            The following response was not helpful: "None".\n            Please provide a better and more specific answer to the user\'s query based on the provided context.\n\n            Query: how to set mailing address\n            ')
+2024-12-03 12:55:01,815 [INFO] Returning cached result
+2024-12-04 11:58:40,140 [INFO] Database db_1911 connection successful!
+2024-12-04 11:58:40,158 [INFO] Database initialized or updated successfully!
+2024-12-04 11:58:40,169 [INFO] Cache loaded from file successfully.
+2024-12-04 12:00:00,086 [INFO] File saved successfully: ../admin/assets/pdf/Student FAQs.pdf
+2024-12-04 12:00:16,735 [INFO] Data embedded into database
+2024-12-04 12:00:19,415 [INFO] Time taken to execute get embedding: 2.0830581188201904 seconds
+2024-12-04 12:00:34,340 [INFO] Cleaned response: How can I assist you? Would you like to discuss your academic goals, ask about course-related topics, or something else entirely?
+
+(Note: I'll do my best to respect your privacy and provide guidance while adhering to our guidelines. Please feel free to share what's on your mind.)
+2024-12-04 12:00:34,341 [INFO] Time taken to get the response: 12.754676818847656 seconds
+2024-12-04 12:00:34,342 [INFO] Storing query in cache. Knowledge ID :82 , query:can i ask you some personnal questions? , cleaned_response:How can I assist you? Would you like to discuss your academic goals, ask about course-related topics, or something else entirely?
+
+(Note: I'll do my best to respect your privacy and provide guidance while adhering to our guidelines. Please feel free to share what's on your mind.)
+2024-12-04 12:00:34,344 [INFO] Cache saved to file successfully.
+2024-12-04 12:00:34,397 [INFO] Database db_1911 connection successful!
+2024-12-04 12:00:34,414 [INFO] Updated cache for query: can i ask you some personnal questions? with new response
+2024-12-04 12:01:16,723 [INFO] Time taken to execute get embedding: 2.097052574157715 seconds
+2024-12-04 12:01:25,934 [INFO] Cleaned response: To become a class representative at Loyalist College, you will need to take on a leadership role in your class or program. 
+
+ provided, student leaders are selected by their peers, and their primary responsibility is to act as an intermediary between faculty and students. However, there isn't specific information available on how one becomes a class representative.
+
+For further details about this position, it might be helpful to reach out to student leadership or student success departments at Loyalist College for more guidance on the application process, eligibility criteria, or any additional responsibilities associated with this role.
+2024-12-04 12:01:25,934 [INFO] Time taken to get the response: 7.102522373199463 seconds
+2024-12-04 12:01:25,934 [INFO] Storing query in cache. Knowledge ID :113 , query:How to be the class representative? , cleaned_response:To become a class representative at Loyalist College, you will need to take on a leadership role in your class or program. 
+
+ provided, student leaders are selected by their peers, and their primary responsibility is to act as an intermediary between faculty and students. However, there isn't specific information available on how one becomes a class representative.
+
+For further details about this position, it might be helpful to reach out to student leadership or student success departments at Loyalist College for more guidance on the application process, eligibility criteria, or any additional responsibilities associated with this role.
+2024-12-04 12:01:25,935 [INFO] Cache saved to file successfully.
+2024-12-04 12:01:25,965 [INFO] Database db_1911 connection successful!
+2024-12-04 12:03:23,138 [INFO] Time taken to execute get embedding: 2.0886056423187256 seconds
+2024-12-04 12:03:30,708 [INFO] Cleaned response: The email of Academics is Academics@tbcollege.com.
+2024-12-04 12:03:30,709 [INFO] Time taken to get the response: 5.468114614486694 seconds
+2024-12-04 12:03:30,709 [INFO] Storing query in cache. Knowledge ID :139 , query:What is the email ID of Academics? , cleaned_response:The email of Academics is Academics@tbcollege.com.
+2024-12-04 12:03:30,711 [INFO] Cache saved to file successfully.
+2024-12-04 12:03:30,723 [INFO] Database db_1911 connection successful!
+2024-12-04 12:03:49,284 [INFO] Time taken to execute get embedding: 2.1180684566497803 seconds
+2024-12-04 12:03:56,126 [INFO] Cleaned response: The email of Admission & Recruitment is Loyalistinternational@tbcollege.com.
+2024-12-04 12:03:56,126 [INFO] Time taken to get the response: 4.728407621383667 seconds
+2024-12-04 12:03:56,126 [INFO] Storing query in cache. Knowledge ID :139 , query:What is email ID of Admission & Recruitment? - , cleaned_response:The email of Admission & Recruitment is Loyalistinternational@tbcollege.com.
+2024-12-04 12:03:56,128 [INFO] Cache saved to file successfully.
+2024-12-04 12:03:56,152 [INFO] Database db_1911 connection successful!
+2024-12-04 12:05:23,402 [INFO] Time taken to execute get embedding: 2.108628511428833 seconds
+2024-12-04 12:05:34,404 [INFO] Cleaned response: CONTEXT: coffee. All students are welcome!  
+
+Moderators: 
+Rumana Banu, Academics Team, Toronto Business College 
+Soumo Mukherjee, Program Coordinator, Artificial Intelligence & Data 
+
+faculty.
+
+In student’s favour:  
+The student and the faculty member agree with the proposed resolution. Both parties sign the Agreement Form and send it to the Academic Department.  
+
+ACADEMIC APPEAL: STAGE 2  
+Within twelve (15) business days of the issuance of the final grades on the Loyalist College portal.  
+Student – Dean  
+The student must email the signed completed Academic Appeal Form Stage 1B, with the faculty written response, to the Dean or designate within five (5) business days of the faculty decision and no later than fifteen (15) business days after the issuance of the final grades. For the Academic Appeal - Stage 2 to be considered, the student must provide the Dean with additional evidence and a rationale for the review of the Stage 1 decision.  
+The Dean or designate will review and evaluate the request. If necessary, the Dean or designate will contact the student to make an appointment to discuss any concern. A written response will be
+
+Unfortunately, I couldn't find specific information on who is the dean of the college in the provided context. For further details, please contact academics or student success.
+2024-12-04 12:05:34,405 [INFO] Time taken to get the response: 8.861212015151978 seconds
+2024-12-04 12:05:34,405 [INFO] Storing query in cache. Knowledge ID :71 , query:Who is the dean of the college? , cleaned_response:CONTEXT: coffee. All students are welcome!  
+
+Moderators: 
+Rumana Banu, Academics Team, Toronto Business College 
+Soumo Mukherjee, Program Coordinator, Artificial Intelligence & Data 
+
+faculty.
+
+In student’s favour:  
+The student and the faculty member agree with the proposed resolution. Both parties sign the Agreement Form and send it to the Academic Department.  
+
+ACADEMIC APPEAL: STAGE 2  
+Within twelve (15) business days of the issuance of the final grades on the Loyalist College portal.  
+Student – Dean  
+The student must email the signed completed Academic Appeal Form Stage 1B, with the faculty written response, to the Dean or designate within five (5) business days of the faculty decision and no later than fifteen (15) business days after the issuance of the final grades. For the Academic Appeal - Stage 2 to be considered, the student must provide the Dean with additional evidence and a rationale for the review of the Stage 1 decision.  
+The Dean or designate will review and evaluate the request. If necessary, the Dean or designate will contact the student to make an appointment to discuss any concern. A written response will be
+
+Unfortunately, I couldn't find specific information on who is the dean of the college in the provided context. For further details, please contact academics or student success.
+2024-12-04 12:05:34,408 [INFO] Cache saved to file successfully.
+2024-12-04 12:05:34,432 [INFO] Database db_1911 connection successful!
+2024-12-04 12:05:48,909 [INFO] Time taken to execute get embedding: 2.024287223815918 seconds
+2024-12-04 12:05:50,952 [INFO] Returning cached result for a similar query: ('71', 'Who is the dean of the college?')
+2024-12-04 12:05:50,959 [INFO] Returning cached result
+2024-12-04 12:05:57,342 [INFO] Removed cached query due to negative feedback: ('71', 'Who is the dean of the college?')
+2024-12-04 12:05:59,464 [INFO] Time taken to execute get embedding: 2.1217446327209473 seconds
+2024-12-04 12:06:08,574 [INFO] Cleaned response: CONTEXT: 
+
+To find information about the Dean of College at Loyalist College (LCIT), Toronto Business College, I looked into various official documents. However, I couldn't find any direct information on specific individuals holding the title of "Dean of College" in the provided context.
+
+According to the document "Academic Appeal - Stage 2," it mentions that students can submit their appeals directly to the Dean or designate within a specified timeframe.
+
+If you're looking for contact information related to the college administration, I suggest visiting the Loyalist College website or contacting the college's general information line. They should be able to provide you with more detailed information about the current leadership and contacts at LCIT.
+2024-12-04 12:06:08,575 [INFO] Time taken to get the response: 7.007709741592407 seconds
+2024-12-04 12:06:08,575 [INFO] Storing query in cache. Knowledge ID :94 , query:
+            The following response was not helpful: "None".
+            Please provide a better and more specific answer to the user's query based on the provided context.
+
+            Query: dean of college
+             , cleaned_response:CONTEXT: 
+
+To find information about the Dean of College at Loyalist College (LCIT), Toronto Business College, I looked into various official documents. However, I couldn't find any direct information on specific individuals holding the title of "Dean of College" in the provided context.
+
+According to the document "Academic Appeal - Stage 2," it mentions that students can submit their appeals directly to the Dean or designate within a specified timeframe.
+
+If you're looking for contact information related to the college administration, I suggest visiting the Loyalist College website or contacting the college's general information line. They should be able to provide you with more detailed information about the current leadership and contacts at LCIT.
+2024-12-04 12:06:08,576 [INFO] Cache saved to file successfully.
+2024-12-04 12:06:08,601 [INFO] Database db_1911 connection successful!
+2024-12-04 12:06:08,606 [INFO] Processed feedback. Updated response: CONTEXT: 
+
+To find information about the Dean of College at Loyalist College (LCIT), Toronto Business College, I looked into various official documents. However, I couldn't find any direct information on specific individuals holding the title of "Dean of College" in the provided context.
+
+According to the document "Academic Appeal - Stage 2," it mentions that students can submit their appeals directly to the Dean or designate within a specified timeframe.
+
+If you're looking for contact information related to the college administration, I suggest visiting the Loyalist College website or contacting the college's general information line. They should be able to provide you with more detailed information about the current leadership and contacts at LCIT.
+2024-12-04 12:06:10,658 [INFO] Time taken to execute get embedding: 2.045374870300293 seconds
+2024-12-04 12:06:12,757 [INFO] Returning cached result for a similar query: ('94', '\n            The following response was not helpful: "None".\n            Please provide a better and more specific answer to the user\'s query based on the provided context.\n\n            Query: dean of college\n            ')
+2024-12-04 12:06:12,757 [INFO] Returning cached result
+2024-12-04 12:06:29,526 [INFO] Time taken to execute get embedding: 2.0925045013427734 seconds
+2024-12-04 12:06:36,791 [INFO] Cleaned response: Musabbir Chowdhury is the Dean of Business and Information Technology at Loyalist College (under TBC).
+2024-12-04 12:06:36,791 [INFO] Time taken to get the response: 5.16963267326355 seconds
+2024-12-04 12:06:36,792 [INFO] Storing query in cache. Knowledge ID :71 , query:who is mussabir , cleaned_response:Musabbir Chowdhury is the Dean of Business and Information Technology at Loyalist College (under TBC).
+2024-12-04 12:06:36,792 [INFO] Cache saved to file successfully.
+2024-12-04 12:06:36,820 [INFO] Database db_1911 connection successful!
+2024-12-04 12:07:08,419 [INFO] Time taken to execute get embedding: 2.094630718231201 seconds
+2024-12-04 12:07:16,998 [INFO] Cleaned response: I think there might be some confusion! The conversation you provided doesn't mention Soumo Mukherjee at all. However, I noticed that you mentioned "on placement or CO-OP" and asked about experience.
+
+If you could clarify what you're looking for regarding experience or CO-OP placements, I'd be happy to try and assist you. Alternatively, if you meant to ask about Soumo Mukherjee, the Program Coordinator for Artificial Intelligence & Data Science, I couldn't find any information on a student ambassador by that name in the provided context.
+
+Could you please provide more details or clarify your question?
+2024-12-04 12:07:16,998 [INFO] Time taken to get the response: 6.423668622970581 seconds
+2024-12-04 12:07:16,998 [INFO] Storing query in cache. Knowledge ID :77 , query:who is suomo , cleaned_response:I think there might be some confusion! The conversation you provided doesn't mention Soumo Mukherjee at all. However, I noticed that you mentioned "on placement or CO-OP" and asked about experience.
+
+If you could clarify what you're looking for regarding experience or CO-OP placements, I'd be happy to try and assist you. Alternatively, if you meant to ask about Soumo Mukherjee, the Program Coordinator for Artificial Intelligence & Data Science, I couldn't find any information on a student ambassador by that name in the provided context.
+
+Could you please provide more details or clarify your question?
+2024-12-04 12:07:17,000 [INFO] Cache saved to file successfully.
+2024-12-04 12:07:17,029 [INFO] Database db_1911 connection successful!
+2024-12-04 12:07:38,197 [INFO] Time taken to execute get embedding: 2.1062021255493164 seconds
+2024-12-04 12:07:47,537 [INFO] Cleaned response: Welcome to Loyalist College's Artificial Intelligence & Data Science program! I'm Giri, your assistant bot. 
+
+I see you're interested in learning more about our program. According to the 2023-24 Artificial Intelligence & Data Science Program Manual, the program aims to equip students with knowledge and specialized skills in AI and data science needed to design and build data-driven systems for decision making.
+
+The full range of services offered by the program includes various courses and learning experiences that cover topics such as statistical modeling and inference, machine learning, data visualization, business intelligence, computer vision, Python, mathematics for data science, and more.
+
+If you have any specific questions about the program curriculum or would like to know more about the expectations for students in this program, I'd be happy to help. 
+
+What's on your mind?
+2024-12-04 12:07:47,537 [INFO] Time taken to get the response: 7.214478969573975 seconds
+2024-12-04 12:07:47,537 [INFO] Storing query in cache. Knowledge ID :99 , query:Program Coordinator for Artificial Intelligence & Data Science , cleaned_response:Welcome to Loyalist College's Artificial Intelligence & Data Science program! I'm Giri, your assistant bot. 
+
+I see you're interested in learning more about our program. According to the 2023-24 Artificial Intelligence & Data Science Program Manual, the program aims to equip students with knowledge and specialized skills in AI and data science needed to design and build data-driven systems for decision making.
+
+The full range of services offered by the program includes various courses and learning experiences that cover topics such as statistical modeling and inference, machine learning, data visualization, business intelligence, computer vision, Python, mathematics for data science, and more.
+
+If you have any specific questions about the program curriculum or would like to know more about the expectations for students in this program, I'd be happy to help. 
+
+What's on your mind?
+2024-12-04 12:07:47,539 [INFO] Cache saved to file successfully.
+2024-12-04 12:07:47,559 [INFO] Database db_1911 connection successful!
+2024-12-04 12:08:10,466 [INFO] Time taken to execute get embedding: 2.1101279258728027 seconds
+2024-12-04 12:08:12,599 [INFO] Returning cached result for a similar query: ('99', 'Program Coordinator for Artificial Intelligence & Data Science')
+2024-12-04 12:08:12,599 [INFO] Returning cached result
+2024-12-04 12:08:19,498 [INFO] Removed cached query due to negative feedback: ('99', 'Program Coordinator for Artificial Intelligence & Data Science')
+2024-12-04 12:08:21,618 [INFO] Time taken to execute get embedding: 2.1203644275665283 seconds
+2024-12-04 12:08:29,882 [INFO] Cleaned response: I couldn't find specific information on who the Program Coordinator for Artificial Intelligence & Data Science is. However, I can suggest that you contact the faculty or staff directly at Loyalist College to inquire about the Program Coordinator's details. You may also want to check the program manual or website for any updated information.
+
+For further assistance, you can reach out to academics or student success at Loyalist College.
+2024-12-04 12:08:29,882 [INFO] Time taken to get the response: 6.153155326843262 seconds
+2024-12-04 12:08:29,882 [INFO] Storing query in cache. Knowledge ID :99 , query:
+            The following response was not helpful: "None".
+            Please provide a better and more specific answer to the user's query based on the provided context.
+
+            Query: who is Program Coordinator for Artificial Intelligence & Data Science
+             , cleaned_response:I couldn't find specific information on who the Program Coordinator for Artificial Intelligence & Data Science is. However, I can suggest that you contact the faculty or staff directly at Loyalist College to inquire about the Program Coordinator's details. You may also want to check the program manual or website for any updated information.
+
+For further assistance, you can reach out to academics or student success at Loyalist College.
+2024-12-04 12:08:29,884 [INFO] Cache saved to file successfully.
+2024-12-04 12:08:29,907 [INFO] Database db_1911 connection successful!
+2024-12-04 12:08:29,919 [INFO] Processed feedback. Updated response: I couldn't find specific information on who the Program Coordinator for Artificial Intelligence & Data Science is. However, I can suggest that you contact the faculty or staff directly at Loyalist College to inquire about the Program Coordinator's details. You may also want to check the program manual or website for any updated information.
+
+For further assistance, you can reach out to academics or student success at Loyalist College.
+2024-12-04 12:08:31,952 [INFO] Time taken to execute get embedding: 2.028923749923706 seconds
+2024-12-04 12:08:34,042 [INFO] Returning cached result for a similar query: ('99', '\n            The following response was not helpful: "None".\n            Please provide a better and more specific answer to the user\'s query based on the provided context.\n\n            Query: who is Program Coordinator for Artificial Intelligence & Data Science\n            ')
+2024-12-04 12:08:34,043 [INFO] Returning cached result
+2024-12-04 12:09:05,395 [INFO] Time taken to execute get embedding: 2.125969409942627 seconds
+2024-12-04 12:09:13,811 [INFO] Cleaned response: in section 6.2 Class Representatives, some of the benefits of being a Class Representative (CR) include:
+
+a. Eligible to receive Class Representative Certificate at the end of the term.
+b. Opportunity to exercise leadership and initiate change.
+c. Receive first-hand information from college staff regarding new activities and services.
+d. Build on your Canadian work experiences.
+
+These benefits are mentioned in the document titled "Class Representatives" available on Canva (canva.com).
+2024-12-04 12:09:13,811 [INFO] Time taken to get the response: 6.270561933517456 seconds
+2024-12-04 12:09:13,812 [INFO] Storing query in cache. Knowledge ID :139 , query:What are the benefits of being a CR?  , cleaned_response:in section 6.2 Class Representatives, some of the benefits of being a Class Representative (CR) include:
+
+a. Eligible to receive Class Representative Certificate at the end of the term.
+b. Opportunity to exercise leadership and initiate change.
+c. Receive first-hand information from college staff regarding new activities and services.
+d. Build on your Canadian work experiences.
+
+These benefits are mentioned in the document titled "Class Representatives" available on Canva (canva.com).
+2024-12-04 12:09:13,813 [INFO] Cache saved to file successfully.
+2024-12-04 12:09:13,842 [INFO] Database db_1911 connection successful!
+2024-12-04 12:09:34,128 [INFO] Time taken to execute get embedding: 2.096540689468384 seconds
+2024-12-04 12:09:41,634 [INFO] Cleaned response: The program coordinator of the Wireless Information Networking course is Sadeq Melhem. You can contact him directly at sadeq.melhem@tbcollege.com.
+2024-12-04 12:09:41,635 [INFO] Time taken to get the response: 5.376333713531494 seconds
+2024-12-04 12:09:41,635 [INFO] Storing query in cache. Knowledge ID :97 , query:Who is the program coordinator of the Wireless Information
+Networking course? , cleaned_response:The program coordinator of the Wireless Information Networking course is Sadeq Melhem. You can contact him directly at sadeq.melhem@tbcollege.com.
+2024-12-04 12:09:41,639 [INFO] Cache saved to file successfully.
+2024-12-04 12:09:41,665 [INFO] Database db_1911 connection successful!
+2024-12-04 12:10:07,819 [INFO] Time taken to execute get embedding: 2.100231647491455 seconds
+2024-12-04 12:10:15,420 [INFO] Cleaned response: The minimum grade to pass any course at Loyalist College (LCIT) is 50%. Additionally, students must maintain an overall GPA of 60% to be eligible for certain programs like Co-op placements.
+2024-12-04 12:10:15,420 [INFO] Time taken to get the response: 5.46050500869751 seconds
+2024-12-04 12:10:15,420 [INFO] Storing query in cache. Knowledge ID :139 , query:What is the minimum grade to pass any course? , cleaned_response:The minimum grade to pass any course at Loyalist College (LCIT) is 50%. Additionally, students must maintain an overall GPA of 60% to be eligible for certain programs like Co-op placements.
+2024-12-04 12:10:15,422 [INFO] Cache saved to file successfully.
+2024-12-04 12:10:15,446 [INFO] Database db_1911 connection successful!
+2024-12-04 12:10:38,011 [INFO] Time taken to execute get embedding: 2.0946507453918457 seconds
+2024-12-04 12:10:40,124 [INFO] Returning cached result for a similar query: ('139', 'What is the minimum grade to pass any course?')
+2024-12-04 12:10:40,124 [INFO] Returning cached result
