@@ -152,15 +152,6 @@ include('partials/connect.php');
                                             <input type="text"  id="username" class="form-control form-control-lg" value="" placeholder="Mobile Number" autocomplete="" name="user_contact">
                                         </div>
 
-                                        <div class="login-form-username form-group">
-                                            <label for="username" class="sr-only">
-                                                Location
-                                            </label>
-                                            <label class="text-link-semibold form-label-color" tabindex="-1">
-                                                Location
-                                            </label>
-                                            <input type="text"  id="username" class="form-control form-control-lg" value="" placeholder="Toronto, ON" autocomplete="" name="user_location">
-                                        </div>
 
                                         <div class="login-form-username form-group">
                                             <label for="username" class="sr-only">
@@ -170,16 +161,6 @@ include('partials/connect.php');
                                                 Username
                                             </label>
                                             <input type="text"  id="username" class="form-control form-control-lg" value="" placeholder="500147836" autocomplete="" name="user_username">
-                                        </div>
-
-                                        <div class="login-form-username form-group">
-                                            <label for="username" class="sr-only">
-                                                Profile Picture
-                                            </label>
-                                            <label class="text-link-semibold form-label-color" tabindex="-1">
-                                                Profile Picture
-                                            </label>
-                                            <input type="file"  id="username" class="form-control form-control-lg" value="" placeholder="Mobile Number" autocomplete="" name="image">
                                         </div>
 
                                         <div class="login-form-password form-group">
@@ -371,20 +352,8 @@ if(isset($_POST['user_register']))
     $user_name = pg_escape_string($con, $_POST['user_name']);
     $user_email = pg_escape_string($con, $_POST['user_email']);
     $user_username = pg_escape_string($con, $_POST['user_username']);
-    $user_location = pg_escape_string($con, $_POST['user_location']);
     $user_contact = pg_escape_string($con, $_POST['user_contact']);
     $user_password = pg_escape_string($con, $_POST['user_password']);
-    $image = $_FILES['image']['name'];
-
-    $temp_name  = $_FILES['image']['tmp_name'];  
-    $source_image_path = basename($_FILES['image']['name']);
-    $ext = pathinfo($source_image_path,PATHINFO_EXTENSION);
-    $random_code=md5(uniqid(rand(),true));
-    $destination_file_name = $random_code . "." . strtolower($ext);
-    $name = $destination_file_name;
-    $folder = "assets/images/user_profile/".$name;
-    $upload_image = move_uploaded_file($temp_name, $folder);
-    $image_uploaded = "assets/images/user_profile/".$name;
 
     $password_hashed = password_hash($user_password, PASSWORD_DEFAULT);
 
@@ -401,7 +370,7 @@ if(isset($_POST['user_register']))
     else 
     {
         $sql="INSERT INTO users_tbl (user_name, user_email, user_pic, user_contact, user_location, user_username, user_password, user_created_at)
-        VALUES('$user_name', '$user_email', '$image_uploaded', '$user_contact', '$user_location', '$user_username', '$password_hashed',  NOW())";
+        VALUES('$user_name', '$user_email', '', '$user_contact', '', '$user_username', '$password_hashed',  NOW())";
 
         if (!pg_query($con,$sql))
         {

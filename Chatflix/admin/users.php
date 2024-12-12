@@ -4480,11 +4480,11 @@
             <div id="members" data-list='{"valueNames":["customer","email","mobile_number","city","last_active","joined"],"page":10,"pagination":true}'>
               <div class="row align-items-center justify-content-between g-3 mb-4">
                 <div class="col col-auto">
-                  <div class="search-box">
+                  <!--<div class="search-box">
                     <form class="position-relative"><input class="form-control search-input search" type="search" placeholder="Search members" aria-label="Search" />
                       <span class="fas fa-search search-box-icon"></span>
                     </form>
-                  </div>
+                  </div>-->
                 </div>
                 <!-- <div class="col-auto">
                   <div class="d-flex align-items-center"><button class="btn btn-link text-body me-4 px-0"><span class="fa-solid fa-file-export fs-9 me-2"></span>Export</button>
