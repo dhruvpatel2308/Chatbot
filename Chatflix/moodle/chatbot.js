@@ -4,7 +4,6 @@ let chatOpen = false;
 let isExpanded = false; // Add a flag for expanded state
 let msgDisplayed = false;
 let lastQuery = '';
-let lastBotResponse = '';
 
 const markdownConverter = new showdown.Converter();
 markdownConverter.setOption('simplifiedAutoLink',true)
@@ -117,7 +116,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
             
                 // Extract the response text from the data object
                 const botResponse = data.response;
-                lastBotResponse = botResponse;
+                
                 // Pass only the botResponse to the markdownConverter
                 const formattedResponse = markdownConverter.makeHtml(botResponse);
             
@@ -187,7 +186,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
         notHelpfulButton.innerText = 'Not Helpful';
         notHelpfulButton.addEventListener('click', () => {
             if (!notHelpfulButton.disabled) { // Only proceed if the button is enabled
-                sendFeedback(lastQuery, false, lastBotResponse);
+                sendFeedback(lastQuery, false);
                 showFeedbackMessage(feedbackContainer, "We'll try to improve!", notHelpfulButton, false);
             }
         });
@@ -218,26 +217,22 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }
 
     // Sample feedback submission function in the frontend
-    function    sendFeedback(query, isHelpful, previousResponse = ''){
+    function sendFeedback(query, isHelpful){
         fetch(`http://${backendIP}:8080/feedback`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
             },
-            body: JSON.stringify({ query: query, isHelpful: isHelpful, previousResponse: previousResponse })
+            body: JSON.stringify({ query: query, isHelpful: isHelpful })
         })
         .then(response => response.json())
         .then(data => {
 
             //automatically generate response if the feedback was "not helpful"
-            if (!isHelpful && data.new_response) {
+            if (!isHelpful) {
                 clearPreviousFeedbackOptions();
                 clearLastBotMessage(); // Remove the previous bot response
-                //regenerateResponse(query); // Call function to regenerate the response
-                
-                const formattedResponse = markdownConverter.makeHtml(data.new_response);
-                addMessageToChatbox('Bot', formattedResponse, 'bot-message');
-                addFeedbackOptions();
+                regenerateResponse(query); // Call function to regenerate the response
             }
         })
         .catch(error => console.error('Error:', error));

@@ -23,7 +23,7 @@
               <div class="d-flex align-items-center"><span class="nav-link-icon"><span data-feather="users"></span></span><span class="nav-link-text-wrapper"><span class="nav-link-text">Users</span></span></div>
             </a></div>
 
-            <div class="nav-item-wrapper"><a class="nav-link label-1" href="500.php" role="button" data-bs-toggle="" aria-expanded="false">
+            <div class="nav-item-wrapper"><a class="nav-link label-1" href="index.php?helpcenter" role="button" data-bs-toggle="" aria-expanded="false">
               <div class="d-flex align-items-center"><span class="nav-link-icon"><span data-feather="phone"></span></span><span class="nav-link-text-wrapper"><span class="nav-link-text">Contact Us</span></span></div>
             </a></div>
 

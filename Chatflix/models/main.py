@@ -36,7 +36,7 @@ config.read(config_path)
 
 db_config = config['database']
 
-CACHE_FILE = "cache.pkl"
+CACHE_FILE = "cache1.pkl"
 
 
 #Initialize FastAPI
@@ -90,43 +90,21 @@ llama3_retriever = db.as_retriever(search_kwargs={"k":5})
 DATA_DIR = '../admin/'   # change required
 
 # Define the prompt template for generating responses
-prompt_template = """
-You are Giri, an assistant bot for students at Loyalist College or LCIT (Loyalist College in Toronto), which is under TBC (Toronto Business College). Your role is to provide accurate and relevant information strictly based on the provided context from official college documents. These documents cover academic policies, program details, student services, campus facilities, and more.
+prompt_template = """You are Giri, an assistant bot for students powered by Loyalist College or LCIT or Loyalist College in Toronto, 
+which is under TBC (Toronto Business College). Your primary task is to provide accurate and relevant information 
+based strictly on the provided context from documents. Always prioritize factual and specific information from the 
+context before giving general guidance.
 
-### Guidelines:
-1. Always prioritize factual and specific information from the context before giving general guidance. Avoid guessing or providing information beyond the context.
-2. Directly answer questions as concisely as possible. Be detailed only if specifically requested or if the question clearly requires a detailed response.
-3. For vague or unclear questions:
-   - Politely ask the user to clarify or provide more details.
-   - If no clarification is possible, respond with a friendly prompt to guide the user toward asking specific questions.
-4. If no relevant information is found in the context, respond: 
-   "Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success."
-5. Avoid answering any questions related to coding, project management, SQL, web development, or other study resources unrelated to the provided context.
-6. You may engage in brief casual conversation, but ensure it aligns with your professional role as a student assistant.
-
-### Examples of the types of questions you might encounter:
-- "What are the rules for retaking a course?"
-- "How do I extend my study permit?"
-- "Can you explain the parking policy on campus?"
-- "What should I do if I lose my student ID card?"
-- "Tell me about the refund policy for withdrawing from a program."
-- "How can I start a new club on campus?"
-- "What are the library services available to students?"
-- "What happens if I miss an exam due to illness?"
-- "What is the process for submitting a complaint?"
-- "What are the eligibility criteria for the cybersecurity program?"
-
-### If no relevant information is found:
+If a question is ambiguous or broad, attempt to interpret it and respond with any related factual information found 
+in the context. Avoid overly cautious fallback responses unless no relevant information exists in the context. 
+If no relevant information is found, reply: 
 "Sorry, I couldn't find specific information on that topic. For further details, please contact academics or student success."
 
-### For retrieved context:
-When answering questions, include specific references (e.g., document title, section name, or page number) to help the student locate the information.
+Avoid guessing or providing information beyond the context of the documents.
 
-### CONVERSATION FORMAT:
 CONTEXT: {context}
 
-QUESTION: {question}
-"""
+QUESTION: {question}"""
 
 PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
 chain_type_kwargs = {"prompt": PROMPT}
@@ -174,9 +152,12 @@ def save_cache_to_file():
 def load_cache_from_file():
     if os.path.exists(CACHE_FILE):
         try:
+            print("cache")
             with open(CACHE_FILE,'rb') as f:
                 global query_cache
                 query_cache = pickle.load(f)
+                for key in query_cache.keys():
+                    print(key)
             logger.info("Cache loaded from file successfully.")
         except Exception as e:
             logger.error(f"Error loading cache from file: {e}")
@@ -299,10 +280,10 @@ def process_query(query, knowledge_id=None):
     # Print the retrieved documents
     if retrieved_docs:
         print("Retrieved Documents:")
-        # for i, doc in enumerate(retrieved_docs, start=1):
-        #     print(f"\nDocument {i}:")
-        #     print(f"Content: {doc.page_content}")
-        #     print(f"Metadata: {doc.metadata}")
+        for i, doc in enumerate(retrieved_docs, start=1):
+            print(f"\nDocument {i}:")
+            print(f"Content: {doc.page_content}")
+            print(f"Metadata: {doc.metadata}")
     else:
         print("No relevant documents found for the query.")
     # Check if a similar query is cached
@@ -378,7 +359,6 @@ async def pdfPost(file: UploadFile = File(...),
         logger.info("Data embedded into database")
         #refresh cache for every cached query across all knowledge bases
         all_cached_queries = list(query_cache.items())
-        print(all_cached_queries)
         for (knowledge_id, query), (query_embedding, _) in all_cached_queries:
             del query_cache[(knowledge_id, query)]
 
@@ -388,7 +368,7 @@ async def pdfPost(file: UploadFile = File(...),
             #add updated cache entry
             query_cache[(knowledge_id, query)] = (query_embedding, new_response)
 
-            return JSONResponse(content={"status": "Successfully Uploaded"})       
+        return JSONResponse(content={"status": "Successfully Uploaded"})       
     except Exception as e:
         logger.error(f"Unexpected error in /pdf route: {str(e)}", exc_info=True)
         raise HTTPException(status_code=500, detail="Internal Server Error")
@@ -400,7 +380,6 @@ async def feedbackPost(request: Request):
     try:
         json_content = await request.json()
         query = json_content.get("query") # original query asked
-        previous_response = json_content.get("previousResponse")
         is_helpful = json_content.get("isHelpful") # feedback from the user
         
         if not query or is_helpful is None:
@@ -408,26 +387,12 @@ async def feedbackPost(request: Request):
         
         if not is_helpful:
             # If feedback is negative, remove similar queries from cache
-            print(query)
             query_embedding = get_embedding(query)
             keys_to_remove = [key for key in query_cache.keys() if cosine_similarity([query_embedding], [query_cache[key][0]])[0][0] > 0.8]
             for key in keys_to_remove:
                 del query_cache[key]
                 logger.info(f"Removed cached query due to negative feedback: {key}")
-
-            # Reprocess the query with the previous response
-            feedback_prompt = f"""
-            The following response was not helpful: "{previous_response}".
-            Please provide a better and more specific answer to the user's query based on the provided context.
-
-            Query: {query}
-            """
-            new_response = process_query(feedback_prompt)
-
-            logger.info(f"Processed feedback. Updated response: {new_response}")
-
-            return JSONResponse(content={"message": "Feedback processed", "new_response": new_response})
-
+        
         return JSONResponse(content={"message": "Feedback received"})
     except Exception as e:
         logger.error(f"Unexpected error in /feedback route: {str(e)}")
@@ -440,8 +405,10 @@ async def feedbackPost(request: Request):
 async def reset_cache(knowledge_id: str = Form(...)):
     try:
         keys_to_remove = [key for key in query_cache.keys() if key[0] == knowledge_id]
-        print(keys_to_remove)
+        for key in query_cache.keys():
+            print("keys:",key)
         for key in keys_to_remove:
+            print(key)
             del query_cache[key]
             logger.info(f"Removed cached query related to knowledge_id: {knowledge_id}")
 
